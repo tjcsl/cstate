@@ -8,8 +8,8 @@
     <generator>github.com/cstate</generator>
     <language>en</language>
     
-    <lastBuildDate>2022-04-06T14:25:00+00:00</lastBuildDate>
-    <updated>2022-04-06T14:25:00+00:00</updated>
+    <lastBuildDate>2022-04-21T12:40:00-04:00</lastBuildDate>
+    <updated>2022-04-21T12:40:00-04:00</updated>
     
     
     
@@ -17,9 +17,19 @@
     
     
       <item>
+        <title>Monitoring</title>
+        <link>https://status.tjhsst.edu/affected/monitoring/</link>
+        <pubDate>Thu, 21 Apr 2022 12:40:00 -0400</pubDate>
+        <guid>https://status.tjhsst.edu/affected/monitoring/</guid>
+        <category></category>
+        <description></description>
+        <content type="html"></content>
+      </item>
+    
+      <item>
         <title>Borg Cluster</title>
         <link>https://status.tjhsst.edu/affected/borg-cluster/</link>
-        <pubDate>Wed, 06 Apr 2022 14:25:00 +0000</pubDate>
+        <pubDate>Wed, 06 Apr 2022 14:25:00 -0400</pubDate>
         <guid>https://status.tjhsst.edu/affected/borg-cluster/</guid>
         <category></category>
         <description></description>

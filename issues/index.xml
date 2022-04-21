@@ -8,8 +8,8 @@
     <generator>github.com/cstate</generator>
     <language>en</language>
     
-    <lastBuildDate>2022-04-06T14:25:00+00:00</lastBuildDate>
-    <updated>2022-04-06T14:25:00+00:00</updated>
+    <lastBuildDate>2022-04-21T12:40:00-04:00</lastBuildDate>
+    <updated>2022-04-21T12:40:00-04:00</updated>
     
     
     
@@ -17,9 +17,20 @@
     
     
       <item>
+        <title>[Resolved] Status Page Switch</title>
+        <link>https://status.tjhsst.edu/issues/2022-04-21-status-page-switch/</link>
+        <pubDate>Thu, 21 Apr 2022 12:40:00 -0400</pubDate>
+        <guid>https://status.tjhsst.edu/issues/2022-04-21-status-page-switch/</guid>
+        <category>2022-04-21T14:15:00-04:00</category>
+        <description>We&amp;rsquo;ve updated our status page to cState!</description>
+        <content type="html">&lt;p&gt;We&amp;rsquo;ve updated our status page to &lt;a href=&#34;https://github.com/cstate/cstate&#34;&gt;cState&lt;/a&gt;!&lt;/p&gt;
+</content>
+      </item>
+    
+      <item>
         <title>Cluster Maintenance</title>
         <link>https://status.tjhsst.edu/issues/2022-04-21-cluster-maintenance/</link>
-        <pubDate>Wed, 06 Apr 2022 14:25:00 +0000</pubDate>
+        <pubDate>Wed, 06 Apr 2022 14:25:00 -0400</pubDate>
         <guid>https://status.tjhsst.edu/issues/2022-04-21-cluster-maintenance/</guid>
         <category></category>
         <description>Some nodes of the Borg cluster are currently inactive. Sysadmins are working on restoring the cluster to full operation.</description>

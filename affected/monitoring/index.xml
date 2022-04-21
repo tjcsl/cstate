@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <link rel="alternate" type="text/html" href="https://status.tjhsst.edu"/>
+    <title>Monitoring on tjCSL Status</title>
+    <link>https://status.tjhsst.edu/affected/monitoring/</link>
+    <description>Incident history</description>
+    <generator>github.com/cstate</generator>
+    <language>en</language>
+    
+    <lastBuildDate>2022-04-21T12:40:00-04:00</lastBuildDate>
+    <updated>2022-04-21T12:40:00-04:00</updated>
+    
+    
+    
+      <atom:link href="https://status.tjhsst.edu/affected/monitoring/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>[Resolved] Status Page Switch</title>
+        <link>https://status.tjhsst.edu/issues/2022-04-21-status-page-switch/</link>
+        <pubDate>Thu, 21 Apr 2022 12:40:00 -0400</pubDate>
+        <guid>https://status.tjhsst.edu/issues/2022-04-21-status-page-switch/</guid>
+        <category>2022-04-21T14:15:00-04:00</category>
+        <description>We&amp;rsquo;ve updated our status page to cState!</description>
+        <content type="html">&lt;p&gt;We&amp;rsquo;ve updated our status page to &lt;a href=&#34;https://github.com/cstate/cstate&#34;&gt;cState&lt;/a&gt;!&lt;/p&gt;
+</content>
+      </item>
+    
+  </channel>
+</rss>
