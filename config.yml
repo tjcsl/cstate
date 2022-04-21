@@ -143,20 +143,18 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   categories:
-    - name: Ion
-      description: TJ's intranet
-    - name: Director
-      description: Web hosting for students and organizations
+    - name: Web
+      description: Web services
     - name: Mail
       description: Webmail and mail servers
-    - name: Remote Access Servers
-      description: SSH gateways to the CSL
+    - name: Academic Services
+      description: Services often used by classes
     - name: Cluster
       description: High performance compute clusters and JupyterHub
-    - name: Storage
-      description: File store accessible from many CSL services
-    - name: Authentication
-      description: Authentication to CSL services
+    - name: Remote Access Servers
+      description: SSH gateways to the CSL
+    - name: Infrastructure
+      description: Backend for CSL services
 
   # These are your systems. Change them to
   # change the amount of components.
@@ -167,20 +165,20 @@ params:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
     - name: Ion
-      category: Ion
+      category: Web
       description: TJ's intranet
       link: https://ion.tjhsst.edu
-    - name: Director sites
-      category: Director
-      description: The ability to publish sites on Director
+    - name: Director
+      category: Web
+      description: Web hosting for students and organizations
       link: https://director.tjhsst.edu
-    - name: Director custom domains
-      category: Director
-      description: The ability to use custom domains with a Director site
     - name: Webmail
       description: The web frontend for TJ's email system
       category: Mail
       link: https://webmail.tjhsst.edu
+    - name: Mail Servers
+      description: The servers handling tjhsst.edu mail
+      category: Mail
     - name: RAS1
       description: One of TJ's remote access servers
       category: Remote Access Servers
@@ -191,7 +189,43 @@ params:
       description: Frontend to run Jupyter notebooks on TJ's clusters
       category: Cluster
       link: https://jupyterhub.tjhsst.edu
-    # Future stuff: Kerberos, LDAP, DNS, DHCP, Tin, Othello, AI Grader
+    - name: Borg Cluster
+      description: One of TJ's computing clusters (40 nodes)
+      category: Cluster
+    - name: HPC Cluster
+      description: One of TJ's computing clusters (12 nodes)
+      category: Cluster
+    - name: Kerberos
+      description: Authentication for CSL users
+      category: Infrastructure
+    - name: LDAP
+      description: Directory management
+      category: Infrastructure
+    - name: DNS
+      description: Domain Name System
+      category: Infrastructure
+    - name: DHCP
+      description: Dynamic Host Configuration Protocol
+      category: Infrastructure
+    - name: Tin
+      description: Turn-In auto-grader
+      category: Academic Services
+      link: https://tin.tjhsst.edu
+    - name: Othello
+      description: Server for AI Othello competition
+      category: Academic Services
+      link: https://othello.tjhsst.edu
+    - name: AI Grader
+      description: Old AI auto-grader
+      category: Academic Services
+      link: https://ai.sites.tjhsst.edu
+    - name: Matterless
+      description: Messaging platform
+      category: Academic Services
+      link: https://matterless.tjhsst.edu
+    - name: Ceph
+      description: Storage backend
+      category: Infrastructure
 
   # What date format to use?
   #
@@ -353,10 +387,14 @@ params:
   # disrupted: "#cc4400"
   # down: "#e60000"
   # notice: "#24478f"
-  brand: "#0a0c0f"
-  ok: "#008000"
-  disrupted: "#cc4400"
-  down: "#e60000"
+  # brand: "#0a0c0f"
+  brand: "#0048ab"
+  # ok: "#008000"
+  ok: "#37b371"
+  # disrupted: "#cc4400"
+  disrupted: "#eaea0d"
+  # down: "#e60000"
+  down: "#e74141"
   notice: "#24478f"
 
   # If the status page shows that
