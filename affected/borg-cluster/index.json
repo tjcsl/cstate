@@ -2,13 +2,13 @@
   "is": "system",
   "title": "Borg Cluster",
   "permalink": "https://status.tjhsst.edu/affected/borg-cluster/",
-  "status": "ok", 
+  "status": "notice", 
   "pages": [
       {
         "is": "issue",
         "title": "Cluster Maintenance",
         "createdAt": "2022-04-06 14:25:00 +0000 UTC",
-        "lastMod": "2022-04-21 13:53:04 -0400 -0400",
+        "lastMod": "2022-04-21 14:02:37 -0400 -0400",
         "permalink": "https://status.tjhsst.edu/issues/2022-04-21-cluster-maintenance/",
         "severity": "notice",
         "resolved": false,

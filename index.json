@@ -7,7 +7,7 @@
   "languageCode": "en",
   "baseURL": "https://status.tjhsst.edu", 
   "description": "We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.",
-  "summaryStatus": "ok", 
+  "summaryStatus": "notice", 
   "categories": [
       {
         "name": "Web",
@@ -129,10 +129,24 @@
         "description": "One of TJ's computing clusters (40 nodes)",
         "category": "Cluster", 
         
-        "status": "ok",
+        "status": "notice",
         
-        "unresolvedIssues": []
-        
+        "unresolvedIssues": [
+            {
+              "is": "issue",
+              "title": "Cluster Maintenance",
+              "createdAt": "2022-04-06 14:25:00 +0000 UTC",
+              "lastMod": "2022-04-21 14:02:37 -0400 -0400",
+              "permalink": "https://status.tjhsst.edu/issues/2022-04-21-cluster-maintenance/",
+              "severity": "notice",
+              "resolved": false,
+              "informational": false,
+              "resolvedAt": "<no value>",
+              "affected": ["Borg Cluster"],
+              "filename": "2022-04-21-cluster-maintenance.md"
+            }
+          
+        ]
       },
       {
         "name": "HPC Cluster",
@@ -238,13 +252,13 @@
   
   
   "buildDate": "2022-04-21",
-  "buildTime": "17:54",
+  "buildTime": "18:02",
   "buildTimezone": "UTC",
   "colorBrand": "#0048ab",
   "colorOk": "#37b371",
   "colorDisrupted": "#eaea0d",
   "colorDown": "#e74141",
-  "colorNotice": "#24478f",
+  "colorNotice": "#0048ab",
   "alwaysKeepBrandColor": "true",
   "logo": "https://status.tjhsst.edu/csl.png",
   "googleAnalytics": "UA-00000000-1"
