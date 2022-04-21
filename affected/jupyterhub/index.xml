@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <link rel="alternate" type="text/html" href="https://status.tjhsst.edu"/>
+    <title>JupyterHub on tjCSL Status</title>
+    <link>https://status.tjhsst.edu/affected/jupyterhub/</link>
+    <description>Incident history</description>
+    <generator>github.com/cstate</generator>
+    <language>en</language>
+    
+    <lastBuildDate>2022-01-07T12:00:00+00:00</lastBuildDate>
+    <updated>2022-01-07T12:00:00+00:00</updated>
+    
+    
+    
+      <atom:link href="https://status.tjhsst.edu/affected/jupyterhub/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>[Resolved] JupyterHub Down</title>
+        <link>https://status.tjhsst.edu/issues/2022-01-07-jupyterhub-down/</link>
+        <pubDate>Fri, 07 Jan 2022 12:00:00 +0000</pubDate>
+        <guid>https://status.tjhsst.edu/issues/2022-01-07-jupyterhub-down/</guid>
+        <category>2022-01-10 12:00:00</category>
+        <description>JupyterHub is currently unable to spawn instances on any of the CSL&amp;rsquo;s computing clusters. We are investigating the issue and hope to bring JupyterHub back online soon.</description>
+        <content type="html">&lt;p&gt;JupyterHub is currently unable to spawn instances on any of the CSL&amp;rsquo;s computing clusters. We are investigating the issue and hope to bring JupyterHub back online soon.&lt;/p&gt;
+</content>
+      </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <link rel="alternate" type="text/html" href="https://status.tjhsst.edu"/>
+    <title>Borg Cluster on tjCSL Status</title>
+    <link>https://status.tjhsst.edu/affected/borg-cluster/</link>
+    <description>Incident history</description>
+    <generator>github.com/cstate</generator>
+    <language>en</language>
+    
+    <lastBuildDate>2022-04-06T14:25:00+00:00</lastBuildDate>
+    <updated>2022-04-06T14:25:00+00:00</updated>
+    
+    
+    
+      <atom:link href="https://status.tjhsst.edu/affected/borg-cluster/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>Cluster Maintenance</title>
+        <link>https://status.tjhsst.edu/issues/2022-04-21-cluster-maintenance/</link>
+        <pubDate>Wed, 06 Apr 2022 14:25:00 +0000</pubDate>
+        <guid>https://status.tjhsst.edu/issues/2022-04-21-cluster-maintenance/</guid>
+        <category></category>
+        <description>Some nodes of the Borg cluster are currently inactive. Sysadmins are working on restoring the cluster to full operation.</description>
+        <content type="html">&lt;p&gt;Some nodes of the Borg cluster are currently inactive. Sysadmins are working on restoring the cluster to full operation.&lt;/p&gt;
+</content>
+      </item>
+    
+  </channel>
+</rss>

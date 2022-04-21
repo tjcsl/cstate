@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <link rel="alternate" type="text/html" href="https://status.tjhsst.edu"/>
+    <title>DNS on tjCSL Status</title>
+    <link>https://status.tjhsst.edu/affected/dns/</link>
+    <description>Incident history</description>
+    <generator>github.com/cstate</generator>
+    <language>en</language>
+    
+    <lastBuildDate>2021-12-21T16:00:00+00:00</lastBuildDate>
+    <updated>2021-12-21T16:00:00+00:00</updated>
+    
+    
+    
+      <atom:link href="https://status.tjhsst.edu/affected/dns/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>[Resolved] DNS Changes</title>
+        <link>https://status.tjhsst.edu/issues/2021-12-21-dns-changes/</link>
+        <pubDate>Tue, 21 Dec 2021 16:00:00 +0000</pubDate>
+        <guid>https://status.tjhsst.edu/issues/2021-12-21-dns-changes/</guid>
+        <category>2021-12-21 18:00:00</category>
+        <description>We are currently deploying significant changes to our DNS configuration. Users of CSL services may experience issues with networking.</description>
+        <content type="html">&lt;p&gt;We are currently deploying significant changes to our DNS configuration. Users of CSL services may experience issues with networking.&lt;/p&gt;
+</content>
+      </item>
+    
+  </channel>
+</rss>

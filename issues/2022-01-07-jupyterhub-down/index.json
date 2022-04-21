@@ -1,0 +1,13 @@
+{
+  "is": "issue",
+  "title": "JupyterHub Down",
+  "createdAt": "2022-01-07 12:00:00 +0000 UTC",
+  "lastMod": "2022-04-21 13:53:04 -0400 -0400",
+  "permalink": "https://status.tjhsst.edu/issues/2022-01-07-jupyterhub-down/",
+  "severity": "down",
+  "resolved": true,
+  "informational": false,
+  "resolvedAt": "2022-01-10 12:00:00",
+  "affected": ["JupyterHub"],
+  "filename": "2022-01-07-jupyterhub-down.md"
+}

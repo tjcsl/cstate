@@ -1,0 +1,13 @@
+{
+  "is": "issue",
+  "title": "Cluster Maintenance",
+  "createdAt": "2022-04-06 14:25:00 +0000 UTC",
+  "lastMod": "2022-04-21 13:53:04 -0400 -0400",
+  "permalink": "https://status.tjhsst.edu/issues/2022-04-21-cluster-maintenance/",
+  "severity": "notice",
+  "resolved": false,
+  "informational": false,
+  "resolvedAt": "<no value>",
+  "affected": ["Borg Cluster"],
+  "filename": "2022-04-21-cluster-maintenance.md"
+}

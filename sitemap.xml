@@ -3,7 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://status.tjhsst.edu/affected/</loc>
+    <lastmod>2022-04-21T13:53:04-04:00</lastmod>
+  </url><url>
+    <loc>https://status.tjhsst.edu/affected/borg-cluster/</loc>
+    <lastmod>2022-04-21T13:53:04-04:00</lastmod>
+  </url><url>
+    <loc>https://status.tjhsst.edu/issues/2022-04-21-cluster-maintenance/</loc>
+    <lastmod>2022-04-21T13:53:04-04:00</lastmod>
+  </url><url>
+    <loc>https://status.tjhsst.edu/issues/</loc>
+    <lastmod>2022-04-21T13:53:04-04:00</lastmod>
   </url><url>
     <loc>https://status.tjhsst.edu/</loc>
+    <lastmod>2022-04-21T13:53:04-04:00</lastmod>
+  </url><url>
+    <loc>https://status.tjhsst.edu/affected/jupyterhub/</loc>
+    <lastmod>2022-04-21T13:53:04-04:00</lastmod>
+  </url><url>
+    <loc>https://status.tjhsst.edu/issues/2022-01-07-jupyterhub-down/</loc>
+    <lastmod>2022-04-21T13:53:04-04:00</lastmod>
+  </url><url>
+    <loc>https://status.tjhsst.edu/affected/dns/</loc>
+    <lastmod>2022-04-21T13:53:04-04:00</lastmod>
+  </url><url>
+    <loc>https://status.tjhsst.edu/issues/2021-12-21-dns-changes/</loc>
+    <lastmod>2022-04-21T13:53:04-04:00</lastmod>
   </url>
 </urlset>
