@@ -226,6 +226,9 @@ params:
     - name: Ceph
       description: Storage backend
       category: Infrastructure
+    - name: Monitoring
+      description: Services that monitor the health of the CSL
+      category: Infrastructure
 
   # What date format to use?
   #
@@ -236,8 +239,8 @@ params:
   #
   # dateFormat Default: "January 2, 2006 at 3:04 PM"
   # shortDateFormat Default: "15:04 — Jan 2"
-  dateFormat: January 2, 2006 at 3:04 PM UTC
-  shortDateFormat: Jan 2, 3:04 PM UTC
+  dateFormat: January 2, 2006 at 3:04 PM
+  shortDateFormat: Jan 2, 3:04 PM
 
   # Should relative time (x min ago) be used?
   #
@@ -262,7 +265,7 @@ params:
   #
   # Default: `true`
   # BOOLEAN; `true`, `false`
-  useRelativeTime: true
+  useRelativeTime: false
  
   # If enabled, doesn't show seconds on relative times.
   #
@@ -281,7 +284,7 @@ params:
   #
   # Default: `true`
   # BOOLEAN; `true`, `false`
-  enableLastMod: true
+  enableLastMod: false
 
   # What header design should we use?
   #
