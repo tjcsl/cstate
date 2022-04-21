@@ -1,0 +1,251 @@
+{
+  "is": "index",
+  "cStateVersion": "5.3",
+  "apiVersion": "2.0",
+  "title": "tjCSL Status",
+  "languageCodeHTML": "en",
+  "languageCode": "en",
+  "baseURL": "https://status.tjhsst.edu", 
+  "description": "We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.",
+  "summaryStatus": "ok", 
+  "categories": [
+      {
+        "name": "Web",
+        "description": "Web services",
+        "hideTitle": false,
+        "closedByDefault": false
+      }
+    ,
+      {
+        "name": "Mail",
+        "description": "Webmail and mail servers",
+        "hideTitle": false,
+        "closedByDefault": false
+      }
+    ,
+      {
+        "name": "Academic Services",
+        "description": "Services often used by classes",
+        "hideTitle": false,
+        "closedByDefault": false
+      }
+    ,
+      {
+        "name": "Cluster",
+        "description": "High performance compute clusters and JupyterHub",
+        "hideTitle": false,
+        "closedByDefault": false
+      }
+    ,
+      {
+        "name": "Remote Access Servers",
+        "description": "SSH gateways to the CSL",
+        "hideTitle": false,
+        "closedByDefault": false
+      }
+    ,
+      {
+        "name": "Infrastructure",
+        "description": "Backend for CSL services",
+        "hideTitle": false,
+        "closedByDefault": false
+      }
+    
+  ],
+  "systems": [
+    
+      {
+        "name": "Ion",
+        "description": "TJ's intranet",
+        "category": "Web", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "Director",
+        "description": "Web hosting for students and organizations",
+        "category": "Web", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "Webmail",
+        "description": "The web frontend for TJ's email system",
+        "category": "Mail", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "Mail Servers",
+        "description": "The servers handling tjhsst.edu mail",
+        "category": "Mail", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "RAS1",
+        "description": "One of TJ's remote access servers",
+        "category": "Remote Access Servers", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "RAS2",
+        "description": "One of TJ's remote access servers",
+        "category": "Remote Access Servers", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "JupyterHub",
+        "description": "Frontend to run Jupyter notebooks on TJ's clusters",
+        "category": "Cluster", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "Borg Cluster",
+        "description": "One of TJ's computing clusters (40 nodes)",
+        "category": "Cluster", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "HPC Cluster",
+        "description": "One of TJ's computing clusters (12 nodes)",
+        "category": "Cluster", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "Kerberos",
+        "description": "Authentication for CSL users",
+        "category": "Infrastructure", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "LDAP",
+        "description": "Directory management",
+        "category": "Infrastructure", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "DNS",
+        "description": "Domain Name System",
+        "category": "Infrastructure", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "DHCP",
+        "description": "Dynamic Host Configuration Protocol",
+        "category": "Infrastructure", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "Tin",
+        "description": "Turn-In auto-grader",
+        "category": "Academic Services", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "Othello",
+        "description": "Server for AI Othello competition",
+        "category": "Academic Services", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "AI Grader",
+        "description": "Old AI auto-grader",
+        "category": "Academic Services", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "Matterless",
+        "description": "Messaging platform",
+        "category": "Academic Services", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "Ceph",
+        "description": "Storage backend",
+        "category": "Infrastructure", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      }
+  ],
+  
+  
+  "buildDate": "2022-04-21",
+  "buildTime": "17:26",
+  "buildTimezone": "UTC",
+  "colorBrand": "#0048ab",
+  "colorOk": "#37b371",
+  "colorDisrupted": "#eaea0d",
+  "colorDown": "#e74141",
+  "colorNotice": "#24478f",
+  "alwaysKeepBrandColor": "true",
+  "logo": "https://status.tjhsst.edu/csl.png",
+  "googleAnalytics": "UA-00000000-1"
+}
