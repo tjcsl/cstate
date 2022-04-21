@@ -387,15 +387,11 @@ params:
   # disrupted: "#cc4400"
   # down: "#e60000"
   # notice: "#24478f"
-  # brand: "#0a0c0f"
   brand: "#0048ab"
-  # ok: "#008000"
   ok: "#37b371"
-  # disrupted: "#cc4400"
   disrupted: "#eaea0d"
-  # down: "#e60000"
   down: "#e74141"
-  notice: "#24478f"
+  notice: "#0048ab"
 
   # If the status page shows that
   # there are disruptions or outages
