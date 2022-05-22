@@ -74,9 +74,9 @@
         "unresolvedIssues": [
             {
               "is": "issue",
-              "title": "",
+              "title": "Web Services Down",
               "createdAt": "2022-05-22 13:28:51 -0400 -0400",
-              "lastMod": "2022-05-22 13:32:45 -0400 -0400",
+              "lastMod": "2022-05-22 13:34:48 -0400 -0400",
               "permalink": "https://status.tjhsst.edu/issues/2022-05-22-systems-down/",
               "severity": "down",
               "resolved": false,
@@ -98,9 +98,9 @@
         "unresolvedIssues": [
             {
               "is": "issue",
-              "title": "",
+              "title": "Web Services Down",
               "createdAt": "2022-05-22 13:28:51 -0400 -0400",
-              "lastMod": "2022-05-22 13:32:45 -0400 -0400",
+              "lastMod": "2022-05-22 13:34:48 -0400 -0400",
               "permalink": "https://status.tjhsst.edu/issues/2022-05-22-systems-down/",
               "severity": "down",
               "resolved": false,
@@ -152,9 +152,9 @@
         "unresolvedIssues": [
             {
               "is": "issue",
-              "title": "",
+              "title": "Web Services Down",
               "createdAt": "2022-05-22 13:28:51 -0400 -0400",
-              "lastMod": "2022-05-22 13:32:45 -0400 -0400",
+              "lastMod": "2022-05-22 13:34:48 -0400 -0400",
               "permalink": "https://status.tjhsst.edu/issues/2022-05-22-systems-down/",
               "severity": "down",
               "resolved": false,
@@ -250,9 +250,9 @@
         "unresolvedIssues": [
             {
               "is": "issue",
-              "title": "",
+              "title": "Web Services Down",
               "createdAt": "2022-05-22 13:28:51 -0400 -0400",
-              "lastMod": "2022-05-22 13:32:45 -0400 -0400",
+              "lastMod": "2022-05-22 13:34:48 -0400 -0400",
               "permalink": "https://status.tjhsst.edu/issues/2022-05-22-systems-down/",
               "severity": "down",
               "resolved": false,
@@ -274,9 +274,9 @@
         "unresolvedIssues": [
             {
               "is": "issue",
-              "title": "",
+              "title": "Web Services Down",
               "createdAt": "2022-05-22 13:28:51 -0400 -0400",
-              "lastMod": "2022-05-22 13:32:45 -0400 -0400",
+              "lastMod": "2022-05-22 13:34:48 -0400 -0400",
               "permalink": "https://status.tjhsst.edu/issues/2022-05-22-systems-down/",
               "severity": "down",
               "resolved": false,
@@ -298,9 +298,9 @@
         "unresolvedIssues": [
             {
               "is": "issue",
-              "title": "",
+              "title": "Web Services Down",
               "createdAt": "2022-05-22 13:28:51 -0400 -0400",
-              "lastMod": "2022-05-22 13:32:45 -0400 -0400",
+              "lastMod": "2022-05-22 13:34:48 -0400 -0400",
               "permalink": "https://status.tjhsst.edu/issues/2022-05-22-systems-down/",
               "severity": "down",
               "resolved": false,
@@ -322,9 +322,9 @@
         "unresolvedIssues": [
             {
               "is": "issue",
-              "title": "",
+              "title": "Web Services Down",
               "createdAt": "2022-05-22 13:28:51 -0400 -0400",
-              "lastMod": "2022-05-22 13:32:45 -0400 -0400",
+              "lastMod": "2022-05-22 13:34:48 -0400 -0400",
               "permalink": "https://status.tjhsst.edu/issues/2022-05-22-systems-down/",
               "severity": "down",
               "resolved": false,
@@ -360,7 +360,7 @@
   
   
   "buildDate": "2022-05-22",
-  "buildTime": "17:33",
+  "buildTime": "17:35",
   "buildTimezone": "UTC",
   "colorBrand": "#0048ab",
   "colorOk": "#37b371",

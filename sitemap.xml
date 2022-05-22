@@ -2,41 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://status.tjhsst.edu/issues/2022-05-22-systems-down/</loc>
-    <lastmod>2022-05-22T13:32:45-04:00</lastmod>
-  </url><url>
     <loc>https://status.tjhsst.edu/affected/</loc>
-    <lastmod>2022-05-22T13:32:45-04:00</lastmod>
+    <lastmod>2022-05-22T13:34:48-04:00</lastmod>
   </url><url>
     <loc>https://status.tjhsst.edu/affected/ai-grader/</loc>
-    <lastmod>2022-05-22T13:32:45-04:00</lastmod>
+    <lastmod>2022-05-22T13:34:48-04:00</lastmod>
   </url><url>
     <loc>https://status.tjhsst.edu/affected/director/</loc>
-    <lastmod>2022-05-22T13:32:45-04:00</lastmod>
+    <lastmod>2022-05-22T13:34:48-04:00</lastmod>
   </url><url>
     <loc>https://status.tjhsst.edu/issues/</loc>
-    <lastmod>2022-05-22T13:32:45-04:00</lastmod>
+    <lastmod>2022-05-22T13:34:48-04:00</lastmod>
   </url><url>
     <loc>https://status.tjhsst.edu/affected/jupyterhub/</loc>
-    <lastmod>2022-05-22T13:32:45-04:00</lastmod>
+    <lastmod>2022-05-22T13:34:48-04:00</lastmod>
   </url><url>
     <loc>https://status.tjhsst.edu/affected/matterless/</loc>
-    <lastmod>2022-05-22T13:32:45-04:00</lastmod>
+    <lastmod>2022-05-22T13:34:48-04:00</lastmod>
   </url><url>
     <loc>https://status.tjhsst.edu/affected/mattermost/</loc>
-    <lastmod>2022-05-22T13:32:45-04:00</lastmod>
+    <lastmod>2022-05-22T13:34:48-04:00</lastmod>
   </url><url>
     <loc>https://status.tjhsst.edu/affected/othello/</loc>
-    <lastmod>2022-05-22T13:32:45-04:00</lastmod>
+    <lastmod>2022-05-22T13:34:48-04:00</lastmod>
   </url><url>
     <loc>https://status.tjhsst.edu/affected/tin/</loc>
-    <lastmod>2022-05-22T13:32:45-04:00</lastmod>
+    <lastmod>2022-05-22T13:34:48-04:00</lastmod>
   </url><url>
     <loc>https://status.tjhsst.edu/</loc>
-    <lastmod>2022-05-22T13:32:45-04:00</lastmod>
+    <lastmod>2022-05-22T13:34:48-04:00</lastmod>
+  </url><url>
+    <loc>https://status.tjhsst.edu/issues/2022-05-22-systems-down/</loc>
+    <lastmod>2022-05-22T13:34:48-04:00</lastmod>
   </url><url>
     <loc>https://status.tjhsst.edu/affected/webmail/</loc>
-    <lastmod>2022-05-22T13:32:45-04:00</lastmod>
+    <lastmod>2022-05-22T13:34:48-04:00</lastmod>
   </url><url>
     <loc>https://status.tjhsst.edu/affected/monitoring/</loc>
     <lastmod>2022-04-21T14:16:16-04:00</lastmod>
