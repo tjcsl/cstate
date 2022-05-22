@@ -7,7 +7,7 @@
   "languageCode": "en",
   "baseURL": "https://status.tjhsst.edu", 
   "description": "We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.",
-  "summaryStatus": "notice", 
+  "summaryStatus": "down", 
   "categories": [
       {
         "name": "Web",
@@ -69,20 +69,48 @@
         "description": "Web hosting for students and organizations",
         "category": "Web", 
         
-        "status": "ok",
+        "status": "down",
         
-        "unresolvedIssues": []
-        
+        "unresolvedIssues": [
+            {
+              "is": "issue",
+              "title": "",
+              "createdAt": "2022-05-22 13:28:51 -0400 -0400",
+              "lastMod": "2022-05-22 13:32:45 -0400 -0400",
+              "permalink": "https://status.tjhsst.edu/issues/2022-05-22-systems-down/",
+              "severity": "down",
+              "resolved": false,
+              "informational": false,
+              "resolvedAt": "<no value>",
+              "affected": ["Director", "Webmail", "Tin", "AI Grader", "Othello", "Mattermost", "Matterless", "JupyterHub"],
+              "filename": "2022-05-22-systems-down.md"
+            }
+          
+        ]
       },
       {
         "name": "Webmail",
         "description": "The web frontend for TJ's email system",
         "category": "Mail", 
         
-        "status": "ok",
+        "status": "down",
         
-        "unresolvedIssues": []
-        
+        "unresolvedIssues": [
+            {
+              "is": "issue",
+              "title": "",
+              "createdAt": "2022-05-22 13:28:51 -0400 -0400",
+              "lastMod": "2022-05-22 13:32:45 -0400 -0400",
+              "permalink": "https://status.tjhsst.edu/issues/2022-05-22-systems-down/",
+              "severity": "down",
+              "resolved": false,
+              "informational": false,
+              "resolvedAt": "<no value>",
+              "affected": ["Director", "Webmail", "Tin", "AI Grader", "Othello", "Mattermost", "Matterless", "JupyterHub"],
+              "filename": "2022-05-22-systems-down.md"
+            }
+          
+        ]
       },
       {
         "name": "Mail Servers",
@@ -119,10 +147,24 @@
         "description": "Frontend to run Jupyter notebooks on TJ's clusters",
         "category": "Cluster", 
         
-        "status": "ok",
+        "status": "down",
         
-        "unresolvedIssues": []
-        
+        "unresolvedIssues": [
+            {
+              "is": "issue",
+              "title": "",
+              "createdAt": "2022-05-22 13:28:51 -0400 -0400",
+              "lastMod": "2022-05-22 13:32:45 -0400 -0400",
+              "permalink": "https://status.tjhsst.edu/issues/2022-05-22-systems-down/",
+              "severity": "down",
+              "resolved": false,
+              "informational": false,
+              "resolvedAt": "<no value>",
+              "affected": ["Director", "Webmail", "Tin", "AI Grader", "Othello", "Mattermost", "Matterless", "JupyterHub"],
+              "filename": "2022-05-22-systems-down.md"
+            }
+          
+        ]
       },
       {
         "name": "Borg Cluster",
@@ -203,40 +245,96 @@
         "description": "Turn-In auto-grader",
         "category": "Academic Services", 
         
-        "status": "ok",
+        "status": "down",
         
-        "unresolvedIssues": []
-        
+        "unresolvedIssues": [
+            {
+              "is": "issue",
+              "title": "",
+              "createdAt": "2022-05-22 13:28:51 -0400 -0400",
+              "lastMod": "2022-05-22 13:32:45 -0400 -0400",
+              "permalink": "https://status.tjhsst.edu/issues/2022-05-22-systems-down/",
+              "severity": "down",
+              "resolved": false,
+              "informational": false,
+              "resolvedAt": "<no value>",
+              "affected": ["Director", "Webmail", "Tin", "AI Grader", "Othello", "Mattermost", "Matterless", "JupyterHub"],
+              "filename": "2022-05-22-systems-down.md"
+            }
+          
+        ]
       },
       {
         "name": "Othello",
         "description": "Server for AI Othello competition",
         "category": "Academic Services", 
         
-        "status": "ok",
+        "status": "down",
         
-        "unresolvedIssues": []
-        
+        "unresolvedIssues": [
+            {
+              "is": "issue",
+              "title": "",
+              "createdAt": "2022-05-22 13:28:51 -0400 -0400",
+              "lastMod": "2022-05-22 13:32:45 -0400 -0400",
+              "permalink": "https://status.tjhsst.edu/issues/2022-05-22-systems-down/",
+              "severity": "down",
+              "resolved": false,
+              "informational": false,
+              "resolvedAt": "<no value>",
+              "affected": ["Director", "Webmail", "Tin", "AI Grader", "Othello", "Mattermost", "Matterless", "JupyterHub"],
+              "filename": "2022-05-22-systems-down.md"
+            }
+          
+        ]
       },
       {
         "name": "AI Grader",
         "description": "Old AI auto-grader",
         "category": "Academic Services", 
         
-        "status": "ok",
+        "status": "down",
         
-        "unresolvedIssues": []
-        
+        "unresolvedIssues": [
+            {
+              "is": "issue",
+              "title": "",
+              "createdAt": "2022-05-22 13:28:51 -0400 -0400",
+              "lastMod": "2022-05-22 13:32:45 -0400 -0400",
+              "permalink": "https://status.tjhsst.edu/issues/2022-05-22-systems-down/",
+              "severity": "down",
+              "resolved": false,
+              "informational": false,
+              "resolvedAt": "<no value>",
+              "affected": ["Director", "Webmail", "Tin", "AI Grader", "Othello", "Mattermost", "Matterless", "JupyterHub"],
+              "filename": "2022-05-22-systems-down.md"
+            }
+          
+        ]
       },
       {
         "name": "Matterless",
         "description": "Messaging platform",
         "category": "Academic Services", 
         
-        "status": "ok",
+        "status": "down",
         
-        "unresolvedIssues": []
-        
+        "unresolvedIssues": [
+            {
+              "is": "issue",
+              "title": "",
+              "createdAt": "2022-05-22 13:28:51 -0400 -0400",
+              "lastMod": "2022-05-22 13:32:45 -0400 -0400",
+              "permalink": "https://status.tjhsst.edu/issues/2022-05-22-systems-down/",
+              "severity": "down",
+              "resolved": false,
+              "informational": false,
+              "resolvedAt": "<no value>",
+              "affected": ["Director", "Webmail", "Tin", "AI Grader", "Othello", "Mattermost", "Matterless", "JupyterHub"],
+              "filename": "2022-05-22-systems-down.md"
+            }
+          
+        ]
       },
       {
         "name": "Ceph",
@@ -261,8 +359,8 @@
   ],
   
   
-  "buildDate": "2022-04-21",
-  "buildTime": "18:16",
+  "buildDate": "2022-05-22",
+  "buildTime": "17:33",
   "buildTimezone": "UTC",
   "colorBrand": "#0048ab",
   "colorOk": "#37b371",
