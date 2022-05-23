@@ -14,6 +14,7 @@ affected:
   - Mattermost
   - Matterless
   - JupyterHub
+  - Ion
 section: issue
 ---
 Several of our web services unexpectedly went down in the morning of May 22, 2022. We are investigating the issue and hope to bring everything online shortly.
