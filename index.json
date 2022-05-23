@@ -59,10 +59,24 @@
         "description": "TJ's intranet",
         "category": "Web", 
         
-        "status": "ok",
+        "status": "down",
         
-        "unresolvedIssues": []
-        
+        "unresolvedIssues": [
+            {
+              "is": "issue",
+              "title": "Web Services Down",
+              "createdAt": "2022-05-22 13:28:51 -0400 -0400",
+              "lastMod": "2022-05-22 22:43:01 -0400 -0400",
+              "permalink": "https://status.tjhsst.edu/issues/2022-05-22-systems-down/",
+              "severity": "down",
+              "resolved": false,
+              "informational": false,
+              "resolvedAt": "<no value>",
+              "affected": ["Director", "Webmail", "Tin", "AI Grader", "Othello", "Mattermost", "Matterless", "JupyterHub", "Ion"],
+              "filename": "2022-05-22-systems-down.md"
+            }
+          
+        ]
       },
       {
         "name": "Director",
@@ -76,13 +90,13 @@
               "is": "issue",
               "title": "Web Services Down",
               "createdAt": "2022-05-22 13:28:51 -0400 -0400",
-              "lastMod": "2022-05-22 13:34:48 -0400 -0400",
+              "lastMod": "2022-05-22 22:43:01 -0400 -0400",
               "permalink": "https://status.tjhsst.edu/issues/2022-05-22-systems-down/",
               "severity": "down",
               "resolved": false,
               "informational": false,
               "resolvedAt": "<no value>",
-              "affected": ["Director", "Webmail", "Tin", "AI Grader", "Othello", "Mattermost", "Matterless", "JupyterHub"],
+              "affected": ["Director", "Webmail", "Tin", "AI Grader", "Othello", "Mattermost", "Matterless", "JupyterHub", "Ion"],
               "filename": "2022-05-22-systems-down.md"
             }
           
@@ -100,13 +114,13 @@
               "is": "issue",
               "title": "Web Services Down",
               "createdAt": "2022-05-22 13:28:51 -0400 -0400",
-              "lastMod": "2022-05-22 13:34:48 -0400 -0400",
+              "lastMod": "2022-05-22 22:43:01 -0400 -0400",
               "permalink": "https://status.tjhsst.edu/issues/2022-05-22-systems-down/",
               "severity": "down",
               "resolved": false,
               "informational": false,
               "resolvedAt": "<no value>",
-              "affected": ["Director", "Webmail", "Tin", "AI Grader", "Othello", "Mattermost", "Matterless", "JupyterHub"],
+              "affected": ["Director", "Webmail", "Tin", "AI Grader", "Othello", "Mattermost", "Matterless", "JupyterHub", "Ion"],
               "filename": "2022-05-22-systems-down.md"
             }
           
@@ -154,13 +168,13 @@
               "is": "issue",
               "title": "Web Services Down",
               "createdAt": "2022-05-22 13:28:51 -0400 -0400",
-              "lastMod": "2022-05-22 13:34:48 -0400 -0400",
+              "lastMod": "2022-05-22 22:43:01 -0400 -0400",
               "permalink": "https://status.tjhsst.edu/issues/2022-05-22-systems-down/",
               "severity": "down",
               "resolved": false,
               "informational": false,
               "resolvedAt": "<no value>",
-              "affected": ["Director", "Webmail", "Tin", "AI Grader", "Othello", "Mattermost", "Matterless", "JupyterHub"],
+              "affected": ["Director", "Webmail", "Tin", "AI Grader", "Othello", "Mattermost", "Matterless", "JupyterHub", "Ion"],
               "filename": "2022-05-22-systems-down.md"
             }
           
@@ -252,13 +266,13 @@
               "is": "issue",
               "title": "Web Services Down",
               "createdAt": "2022-05-22 13:28:51 -0400 -0400",
-              "lastMod": "2022-05-22 13:34:48 -0400 -0400",
+              "lastMod": "2022-05-22 22:43:01 -0400 -0400",
               "permalink": "https://status.tjhsst.edu/issues/2022-05-22-systems-down/",
               "severity": "down",
               "resolved": false,
               "informational": false,
               "resolvedAt": "<no value>",
-              "affected": ["Director", "Webmail", "Tin", "AI Grader", "Othello", "Mattermost", "Matterless", "JupyterHub"],
+              "affected": ["Director", "Webmail", "Tin", "AI Grader", "Othello", "Mattermost", "Matterless", "JupyterHub", "Ion"],
               "filename": "2022-05-22-systems-down.md"
             }
           
@@ -276,13 +290,13 @@
               "is": "issue",
               "title": "Web Services Down",
               "createdAt": "2022-05-22 13:28:51 -0400 -0400",
-              "lastMod": "2022-05-22 13:34:48 -0400 -0400",
+              "lastMod": "2022-05-22 22:43:01 -0400 -0400",
               "permalink": "https://status.tjhsst.edu/issues/2022-05-22-systems-down/",
               "severity": "down",
               "resolved": false,
               "informational": false,
               "resolvedAt": "<no value>",
-              "affected": ["Director", "Webmail", "Tin", "AI Grader", "Othello", "Mattermost", "Matterless", "JupyterHub"],
+              "affected": ["Director", "Webmail", "Tin", "AI Grader", "Othello", "Mattermost", "Matterless", "JupyterHub", "Ion"],
               "filename": "2022-05-22-systems-down.md"
             }
           
@@ -300,13 +314,13 @@
               "is": "issue",
               "title": "Web Services Down",
               "createdAt": "2022-05-22 13:28:51 -0400 -0400",
-              "lastMod": "2022-05-22 13:34:48 -0400 -0400",
+              "lastMod": "2022-05-22 22:43:01 -0400 -0400",
               "permalink": "https://status.tjhsst.edu/issues/2022-05-22-systems-down/",
               "severity": "down",
               "resolved": false,
               "informational": false,
               "resolvedAt": "<no value>",
-              "affected": ["Director", "Webmail", "Tin", "AI Grader", "Othello", "Mattermost", "Matterless", "JupyterHub"],
+              "affected": ["Director", "Webmail", "Tin", "AI Grader", "Othello", "Mattermost", "Matterless", "JupyterHub", "Ion"],
               "filename": "2022-05-22-systems-down.md"
             }
           
@@ -324,13 +338,13 @@
               "is": "issue",
               "title": "Web Services Down",
               "createdAt": "2022-05-22 13:28:51 -0400 -0400",
-              "lastMod": "2022-05-22 13:34:48 -0400 -0400",
+              "lastMod": "2022-05-22 22:43:01 -0400 -0400",
               "permalink": "https://status.tjhsst.edu/issues/2022-05-22-systems-down/",
               "severity": "down",
               "resolved": false,
               "informational": false,
               "resolvedAt": "<no value>",
-              "affected": ["Director", "Webmail", "Tin", "AI Grader", "Othello", "Mattermost", "Matterless", "JupyterHub"],
+              "affected": ["Director", "Webmail", "Tin", "AI Grader", "Othello", "Mattermost", "Matterless", "JupyterHub", "Ion"],
               "filename": "2022-05-22-systems-down.md"
             }
           
@@ -359,8 +373,8 @@
   ],
   
   
-  "buildDate": "2022-05-22",
-  "buildTime": "17:35",
+  "buildDate": "2022-05-23",
+  "buildTime": "02:43",
   "buildTimezone": "UTC",
   "colorBrand": "#0048ab",
   "colorOk": "#37b371",
