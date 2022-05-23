@@ -8,12 +8,12 @@ severity: down
 affected:
   - Director
 #  - Webmail
-#  - Tin
-#  - AI Grader
+  - Tin
+  - AI Grader
   - Othello
 #  - Mattermost
 #  - Matterless
-#  - JupyterHub
+  - JupyterHub
   - Ion
 section: issue
 ---
