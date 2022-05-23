@@ -37,16 +37,6 @@
       </item>
     
       <item>
-        <title>Ion</title>
-        <link>https://status.tjhsst.edu/affected/ion/</link>
-        <pubDate>Sun, 22 May 2022 13:28:51 -0400</pubDate>
-        <guid>https://status.tjhsst.edu/affected/ion/</guid>
-        <category></category>
-        <description></description>
-        <content type="html"></content>
-      </item>
-    
-      <item>
         <title>JupyterHub</title>
         <link>https://status.tjhsst.edu/affected/jupyterhub/</link>
         <pubDate>Sun, 22 May 2022 13:28:51 -0400</pubDate>
