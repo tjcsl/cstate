@@ -11,9 +11,8 @@ affected:
   - Tin
   - AI Grader
   - Othello
-#  - Mattermost
 #  - Matterless
-  - JupyterHub
+#  - JupyterHub
 #  - Ion
 section: issue
 ---
