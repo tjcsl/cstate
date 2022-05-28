@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <link rel="alternate" type="text/html" href="https://status.tjhsst.edu"/>
+    <title>Webmail on tjCSL Status</title>
+    <link>https://status.tjhsst.edu/affected/webmail/</link>
+    <description>Incident history</description>
+    <generator>github.com/cstate</generator>
+    <language>en</language>
+    
+    <lastBuildDate>2022-05-22T05:32:40-04:00</lastBuildDate>
+    <updated>2022-05-22T05:32:40-04:00</updated>
+    
+    
+    
+      <atom:link href="https://status.tjhsst.edu/affected/webmail/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>[Resolved] Web Services Down</title>
+        <link>https://status.tjhsst.edu/issues/2022-05-22-systems-down/</link>
+        <pubDate>Sun, 22 May 2022 05:32:40 -0400</pubDate>
+        <guid>https://status.tjhsst.edu/issues/2022-05-22-systems-down/</guid>
+        <category>2022-05-27T21:54:00-04:00</category>
+        <description>Several of our web services unexpectedly went down in the morning of May 22, 2022. After several days of investigation, we have restored the services to full operation.
+We are not entirely sure what triggered the shutdown, but we do know that a crucial server managed by the TJHSST Tech Team crashed at some point between Friday 5/20 and Sunday 5/22, causing problems with our DNS servers (whose internal name resolution depended on said server).</description>
+        <content type="html">&lt;p&gt;Several of our web services unexpectedly went down in the morning of May 22, 2022. After several days of investigation, we have restored the services to full operation.&lt;/p&gt;
+&lt;p&gt;We are not entirely sure what triggered the shutdown, but we do know that a crucial server managed by the TJHSST Tech Team crashed at some point between Friday 5/20 and Sunday 5/22, causing problems with our DNS servers (whose internal name resolution depended on said server). When we found a workaround for that issue in the evening of Sunday 5/22, we rebooted all servers. Unfortunately, one of our VM hosts experienced unexpected networking issues, causing all VMs on that host to be unavailable until they were moved to other servers on Tuesday 5/24. In addition, this reboot applied updates to kernel versions on our Ion and Director appservers, which broke communication between nodes on the Docker swarms for both services until the kernel was rolled back on Friday 5/27.&lt;/p&gt;
+</content>
+      </item>
+    
+  </channel>
+</rss>

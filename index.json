@@ -7,7 +7,7 @@
   "languageCode": "en",
   "baseURL": "https://status.tjhsst.edu", 
   "description": "We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.",
-  "summaryStatus": "down", 
+  "summaryStatus": "notice", 
   "categories": [
       {
         "name": "Web",
@@ -69,24 +69,20 @@
         "description": "Web hosting for students and organizations",
         "category": "Web", 
         
-        "status": "down",
+        "status": "ok",
         
-        "unresolvedIssues": [
-            {
-              "is": "issue",
-              "title": "Web Services Down",
-              "createdAt": "2022-05-22 13:28:51 -0400 -0400",
-              "lastMod": "2022-05-25 11:53:24 -0400 -0400",
-              "permalink": "https://status.tjhsst.edu/issues/2022-05-22-systems-down/",
-              "severity": "down",
-              "resolved": false,
-              "informational": false,
-              "resolvedAt": "<no value>",
-              "affected": ["Director", "Tin", "AI Grader", "Othello"],
-              "filename": "2022-05-22-systems-down.md"
-            }
-          
-        ]
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "Signage",
+        "description": "Signage displays placed around TJ",
+        "category": "Web", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
       },
       {
         "name": "Webmail",
@@ -217,72 +213,30 @@
         "description": "Turn-In auto-grader",
         "category": "Academic Services", 
         
-        "status": "down",
+        "status": "ok",
         
-        "unresolvedIssues": [
-            {
-              "is": "issue",
-              "title": "Web Services Down",
-              "createdAt": "2022-05-22 13:28:51 -0400 -0400",
-              "lastMod": "2022-05-25 11:53:24 -0400 -0400",
-              "permalink": "https://status.tjhsst.edu/issues/2022-05-22-systems-down/",
-              "severity": "down",
-              "resolved": false,
-              "informational": false,
-              "resolvedAt": "<no value>",
-              "affected": ["Director", "Tin", "AI Grader", "Othello"],
-              "filename": "2022-05-22-systems-down.md"
-            }
-          
-        ]
+        "unresolvedIssues": []
+        
       },
       {
         "name": "Othello",
         "description": "Server for AI Othello competition",
         "category": "Academic Services", 
         
-        "status": "down",
+        "status": "ok",
         
-        "unresolvedIssues": [
-            {
-              "is": "issue",
-              "title": "Web Services Down",
-              "createdAt": "2022-05-22 13:28:51 -0400 -0400",
-              "lastMod": "2022-05-25 11:53:24 -0400 -0400",
-              "permalink": "https://status.tjhsst.edu/issues/2022-05-22-systems-down/",
-              "severity": "down",
-              "resolved": false,
-              "informational": false,
-              "resolvedAt": "<no value>",
-              "affected": ["Director", "Tin", "AI Grader", "Othello"],
-              "filename": "2022-05-22-systems-down.md"
-            }
-          
-        ]
+        "unresolvedIssues": []
+        
       },
       {
         "name": "AI Grader",
         "description": "Old AI auto-grader",
         "category": "Academic Services", 
         
-        "status": "down",
+        "status": "ok",
         
-        "unresolvedIssues": [
-            {
-              "is": "issue",
-              "title": "Web Services Down",
-              "createdAt": "2022-05-22 13:28:51 -0400 -0400",
-              "lastMod": "2022-05-25 11:53:24 -0400 -0400",
-              "permalink": "https://status.tjhsst.edu/issues/2022-05-22-systems-down/",
-              "severity": "down",
-              "resolved": false,
-              "informational": false,
-              "resolvedAt": "<no value>",
-              "affected": ["Director", "Tin", "AI Grader", "Othello"],
-              "filename": "2022-05-22-systems-down.md"
-            }
-          
-        ]
+        "unresolvedIssues": []
+        
       },
       {
         "name": "Matterless",
@@ -317,8 +271,8 @@
   ],
   
   
-  "buildDate": "2022-05-25",
-  "buildTime": "15:53",
+  "buildDate": "2022-05-28",
+  "buildTime": "19:52",
   "buildTimezone": "UTC",
   "colorBrand": "#0048ab",
   "colorOk": "#37b371",

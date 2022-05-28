@@ -8,8 +8,8 @@
     <generator>github.com/cstate</generator>
     <language>en</language>
     
-    <lastBuildDate>2022-05-22T13:28:51-04:00</lastBuildDate>
-    <updated>2022-05-22T13:28:51-04:00</updated>
+    <lastBuildDate>2022-05-22T05:32:40-04:00</lastBuildDate>
+    <updated>2022-05-22T05:32:40-04:00</updated>
     
     
     
@@ -19,7 +19,7 @@
       <item>
         <title>AI Grader</title>
         <link>https://status.tjhsst.edu/affected/ai-grader/</link>
-        <pubDate>Sun, 22 May 2022 13:28:51 -0400</pubDate>
+        <pubDate>Sun, 22 May 2022 05:32:40 -0400</pubDate>
         <guid>https://status.tjhsst.edu/affected/ai-grader/</guid>
         <category></category>
         <description></description>
@@ -29,8 +29,48 @@
       <item>
         <title>Director</title>
         <link>https://status.tjhsst.edu/affected/director/</link>
-        <pubDate>Sun, 22 May 2022 13:28:51 -0400</pubDate>
+        <pubDate>Sun, 22 May 2022 05:32:40 -0400</pubDate>
         <guid>https://status.tjhsst.edu/affected/director/</guid>
+        <category></category>
+        <description></description>
+        <content type="html"></content>
+      </item>
+    
+      <item>
+        <title>DNS</title>
+        <link>https://status.tjhsst.edu/affected/dns/</link>
+        <pubDate>Sun, 22 May 2022 05:32:40 -0400</pubDate>
+        <guid>https://status.tjhsst.edu/affected/dns/</guid>
+        <category></category>
+        <description></description>
+        <content type="html"></content>
+      </item>
+    
+      <item>
+        <title>Ion</title>
+        <link>https://status.tjhsst.edu/affected/ion/</link>
+        <pubDate>Sun, 22 May 2022 05:32:40 -0400</pubDate>
+        <guid>https://status.tjhsst.edu/affected/ion/</guid>
+        <category></category>
+        <description></description>
+        <content type="html"></content>
+      </item>
+    
+      <item>
+        <title>JupyterHub</title>
+        <link>https://status.tjhsst.edu/affected/jupyterhub/</link>
+        <pubDate>Sun, 22 May 2022 05:32:40 -0400</pubDate>
+        <guid>https://status.tjhsst.edu/affected/jupyterhub/</guid>
+        <category></category>
+        <description></description>
+        <content type="html"></content>
+      </item>
+    
+      <item>
+        <title>Matterless</title>
+        <link>https://status.tjhsst.edu/affected/matterless/</link>
+        <pubDate>Sun, 22 May 2022 05:32:40 -0400</pubDate>
+        <guid>https://status.tjhsst.edu/affected/matterless/</guid>
         <category></category>
         <description></description>
         <content type="html"></content>
@@ -39,8 +79,18 @@
       <item>
         <title>Othello</title>
         <link>https://status.tjhsst.edu/affected/othello/</link>
-        <pubDate>Sun, 22 May 2022 13:28:51 -0400</pubDate>
+        <pubDate>Sun, 22 May 2022 05:32:40 -0400</pubDate>
         <guid>https://status.tjhsst.edu/affected/othello/</guid>
+        <category></category>
+        <description></description>
+        <content type="html"></content>
+      </item>
+    
+      <item>
+        <title>Signage</title>
+        <link>https://status.tjhsst.edu/affected/signage/</link>
+        <pubDate>Sun, 22 May 2022 05:32:40 -0400</pubDate>
+        <guid>https://status.tjhsst.edu/affected/signage/</guid>
         <category></category>
         <description></description>
         <content type="html"></content>
@@ -49,8 +99,18 @@
       <item>
         <title>Tin</title>
         <link>https://status.tjhsst.edu/affected/tin/</link>
-        <pubDate>Sun, 22 May 2022 13:28:51 -0400</pubDate>
+        <pubDate>Sun, 22 May 2022 05:32:40 -0400</pubDate>
         <guid>https://status.tjhsst.edu/affected/tin/</guid>
+        <category></category>
+        <description></description>
+        <content type="html"></content>
+      </item>
+    
+      <item>
+        <title>Webmail</title>
+        <link>https://status.tjhsst.edu/affected/webmail/</link>
+        <pubDate>Sun, 22 May 2022 05:32:40 -0400</pubDate>
+        <guid>https://status.tjhsst.edu/affected/webmail/</guid>
         <category></category>
         <description></description>
         <content type="html"></content>
@@ -71,26 +131,6 @@
         <link>https://status.tjhsst.edu/affected/borg-cluster/</link>
         <pubDate>Wed, 06 Apr 2022 14:25:00 -0400</pubDate>
         <guid>https://status.tjhsst.edu/affected/borg-cluster/</guid>
-        <category></category>
-        <description></description>
-        <content type="html"></content>
-      </item>
-    
-      <item>
-        <title>JupyterHub</title>
-        <link>https://status.tjhsst.edu/affected/jupyterhub/</link>
-        <pubDate>Fri, 07 Jan 2022 12:00:00 +0000</pubDate>
-        <guid>https://status.tjhsst.edu/affected/jupyterhub/</guid>
-        <category></category>
-        <description></description>
-        <content type="html"></content>
-      </item>
-    
-      <item>
-        <title>DNS</title>
-        <link>https://status.tjhsst.edu/affected/dns/</link>
-        <pubDate>Tue, 21 Dec 2021 16:00:00 +0000</pubDate>
-        <guid>https://status.tjhsst.edu/affected/dns/</guid>
         <category></category>
         <description></description>
         <content type="html"></content>

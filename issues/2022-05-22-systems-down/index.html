@@ -6,7 +6,8 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
-    <meta name="description" content="Several of our web services unexpectedly went down in the morning of May 22, 2022. We are investigating the issue and hope to bring everything online shortly.">
+    <meta name="description" content="Several of our web services unexpectedly went down in the morning of May 22, 2022. After several days of investigation, we have restored the services to full operation.
+We are not entirely sure what triggered the shutdown, but we do know that a crucial server managed by the TJHSST Tech Team crashed at some point between Friday 5/20 and Sunday 5/22, causing problems with our DNS servers (whose internal name resolution depended on said server).">
     <title>Web Services Down | tjCSL Status</title>
     <link rel="canonical" href="https://status.tjhsst.edu/issues/2022-05-22-systems-down/">
     <link rel="alternate" type="application/json" href="https://status.tjhsst.edu/issues/2022-05-22-systems-down/index.json" title="tjCSL Status" />
@@ -421,32 +422,66 @@
 
   <small class="date">
     
-      May 22, 2022 at 1:28 PM
+      May 22, 2022 at 5:32 AM
     
   </small>
 
   <p><small>
     
+      <a href="/affected/ai-grader/" class="tag no-underline">AI Grader</a>
+    
       <a href="/affected/director/" class="tag no-underline">Director</a>
+    
+      <a href="/affected/dns/" class="tag no-underline">DNS</a>
+    
+      <a href="/affected/jupyterhub/" class="tag no-underline">JupyterHub</a>
+    
+      <a href="/affected/ion/" class="tag no-underline">Ion</a>
+    
+      <a href="/affected/matterless/" class="tag no-underline">Matterless</a>
+    
+      <a href="/affected/othello/" class="tag no-underline">Othello</a>
+    
+      <a href="/affected/signage/" class="tag no-underline">Signage</a>
     
       <a href="/affected/tin/" class="tag no-underline">Tin</a>
     
-      <a href="/affected/ai-grader/" class="tag no-underline">AI Grader</a>
-    
-      <a href="/affected/othello/" class="tag no-underline">Othello</a>
+      <a href="/affected/webmail/" class="tag no-underline">Webmail</a>
     
   </small></p>
 
   
-    <strong class="error">
-      
-      ■ 
-      
-      This issue is not resolved yet</strong>
+  
+  
+  
+
+
+  
+  
+    
+      <div class="warning tooltip">
+        <strong>
+          Resolved after
+
+          
+
+          136h
+          21m of downtime.
+        </strong>
+
+        <span class="tooltip__text">
+          
+            May 27, 2022 at 9:54 PM
+          
+        </span>
+      </div>
+    
+  
   
 
   <hr>
-  <p>Several of our web services unexpectedly went down in the morning of May 22, 2022. We are investigating the issue and hope to bring everything online shortly.</p>
+  <p>Several of our web services unexpectedly went down in the morning of May 22, 2022. After several days of investigation, we have restored the services to full operation.</p>
+<p>We are not entirely sure what triggered the shutdown, but we do know that a crucial server managed by the TJHSST Tech Team crashed at some point between Friday 5/20 and Sunday 5/22, causing problems with our DNS servers (whose internal name resolution depended on said server). When we found a workaround for that issue in the evening of Sunday 5/22, we rebooted all servers. Unfortunately, one of our VM hosts experienced unexpected networking issues, causing all VMs on that host to be unavailable until they were moved to other servers on Tuesday 5/24. In addition, this reboot applied updates to kernel versions on our Ion and Director appservers, which broke communication between nodes on the Docker swarms for both services until the kernel was rolled back on Friday 5/27.</p>
 
 </div>
 <div class="padding"></div>
