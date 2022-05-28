@@ -172,6 +172,9 @@ params:
       category: Web
       description: Web hosting for students and organizations
       link: https://director.tjhsst.edu
+    - name: Signage
+      category: Web
+      description: Signage displays placed around TJ
     - name: Webmail
       description: The web frontend for TJ's email system
       category: Mail
