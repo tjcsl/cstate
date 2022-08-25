@@ -8,13 +8,23 @@
       <generator>github.com/cstate</generator>
       <language>en</language>
       
-      <lastBuildDate>Sun, 22 May 2022 05:32:40 -0400</lastBuildDate>
+      <lastBuildDate>Wed, 24 Aug 2022 18:20:00 -0400</lastBuildDate>
       
       
       
         <atom:link href="https://status.tjhsst.edu/index.xml" rel="self" type="application/rss+xml" />
       
       
+      
+        <item>
+          <title>Director Files Not Loading</title>
+          <link>https://status.tjhsst.edu/issues/2022-08-24-director-files/</link>
+          <pubDate>Wed, 24 Aug 2022 18:20:00 -0400</pubDate>
+          <guid>https://status.tjhsst.edu/issues/2022-08-24-director-files/</guid>
+          <category></category>
+          <description>&lt;p&gt;Users are reporting that the file explorer is not loading insude the Director online editor. We are investigating the issue and hope to have it resolved soon.&lt;/p&gt;
+</description>
+        </item>
       
         <item>
           <title>[Resolved] Web Services Down</title>

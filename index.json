@@ -7,7 +7,7 @@
   "languageCode": "en",
   "baseURL": "https://status.tjhsst.edu", 
   "description": "We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.",
-  "summaryStatus": "notice", 
+  "summaryStatus": "disrupted", 
   "categories": [
       {
         "name": "Web",
@@ -69,10 +69,24 @@
         "description": "Web hosting for students and organizations",
         "category": "Web", 
         
-        "status": "ok",
+        "status": "disrupted",
         
-        "unresolvedIssues": []
-        
+        "unresolvedIssues": [
+            {
+              "is": "issue",
+              "title": "Director Files Not Loading",
+              "createdAt": "2022-08-24 18:20:00 -0400 -0400",
+              "lastMod": "2022-08-25 09:17:46 -0400 -0400",
+              "permalink": "https://status.tjhsst.edu/issues/2022-08-24-director-files/",
+              "severity": "disrupted",
+              "resolved": false,
+              "informational": false,
+              "resolvedAt": "<no value>",
+              "affected": ["Director"],
+              "filename": "2022-08-24-director-files.md"
+            }
+          
+        ]
       },
       {
         "name": "Signage",
@@ -271,8 +285,8 @@
   ],
   
   
-  "buildDate": "2022-05-28",
-  "buildTime": "19:52",
+  "buildDate": "2022-08-25",
+  "buildTime": "13:18",
   "buildTimezone": "UTC",
   "colorBrand": "#0048ab",
   "colorOk": "#37b371",

@@ -8,8 +8,8 @@
     <generator>github.com/cstate</generator>
     <language>en</language>
     
-    <lastBuildDate>2022-05-22T05:32:40-04:00</lastBuildDate>
-    <updated>2022-05-22T05:32:40-04:00</updated>
+    <lastBuildDate>2022-08-24T18:20:00-04:00</lastBuildDate>
+    <updated>2022-08-24T18:20:00-04:00</updated>
     
     
     
@@ -17,20 +17,20 @@
     
     
       <item>
-        <title>AI Grader</title>
-        <link>https://status.tjhsst.edu/affected/ai-grader/</link>
-        <pubDate>Sun, 22 May 2022 05:32:40 -0400</pubDate>
-        <guid>https://status.tjhsst.edu/affected/ai-grader/</guid>
+        <title>Director</title>
+        <link>https://status.tjhsst.edu/affected/director/</link>
+        <pubDate>Wed, 24 Aug 2022 18:20:00 -0400</pubDate>
+        <guid>https://status.tjhsst.edu/affected/director/</guid>
         <category></category>
         <description></description>
         <content type="html"></content>
       </item>
     
       <item>
-        <title>Director</title>
-        <link>https://status.tjhsst.edu/affected/director/</link>
+        <title>AI Grader</title>
+        <link>https://status.tjhsst.edu/affected/ai-grader/</link>
         <pubDate>Sun, 22 May 2022 05:32:40 -0400</pubDate>
-        <guid>https://status.tjhsst.edu/affected/director/</guid>
+        <guid>https://status.tjhsst.edu/affected/ai-grader/</guid>
         <category></category>
         <description></description>
         <content type="html"></content>

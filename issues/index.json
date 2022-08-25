@@ -6,6 +6,20 @@
   "pages": [
       {
         "is": "issue",
+        "title": "Director Files Not Loading",
+        "createdAt": "2022-08-24 18:20:00 -0400 -0400",
+        "lastMod": "2022-08-25 09:17:46 -0400 -0400",
+        "permalink": "https://status.tjhsst.edu/issues/2022-08-24-director-files/",
+        "severity": "disrupted",
+        "resolved": false,
+        "informational": false,
+        "resolvedAt": "<no value>",
+        "affected": ["Director"],
+        "filename": "2022-08-24-director-files.md"
+      }
+    ,
+      {
+        "is": "issue",
         "title": "Web Services Down",
         "createdAt": "2022-05-22 05:32:40 -0400 -0400",
         "lastMod": "2022-05-28 15:52:36 -0400 -0400",
