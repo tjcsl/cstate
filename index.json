@@ -76,12 +76,12 @@
               "is": "issue",
               "title": "Director Files Not Loading",
               "createdAt": "2022-08-24 18:20:00 -0400 -0400",
-              "lastMod": "2022-08-25 09:17:46 -0400 -0400",
+              "lastMod": "2022-08-29 15:48:37 -0400 -0400",
               "permalink": "https://status.tjhsst.edu/issues/2022-08-24-director-files/",
               "severity": "disrupted",
               "resolved": false,
               "informational": false,
-              "resolvedAt": "<no value>",
+              "resolvedAt": "2022-08-29T15:35:51-04:00",
               "affected": ["Director"],
               "filename": "2022-08-24-director-files.md"
             }
@@ -285,8 +285,8 @@
   ],
   
   
-  "buildDate": "2022-08-25",
-  "buildTime": "13:18",
+  "buildDate": "2022-08-29",
+  "buildTime": "19:48",
   "buildTimezone": "UTC",
   "colorBrand": "#0048ab",
   "colorOk": "#37b371",
