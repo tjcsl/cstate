@@ -7,7 +7,7 @@
   "languageCode": "en",
   "baseURL": "https://status.tjhsst.edu", 
   "description": "We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.",
-  "summaryStatus": "disrupted", 
+  "summaryStatus": "notice", 
   "categories": [
       {
         "name": "Web",
@@ -59,16 +59,16 @@
         "description": "TJ's intranet",
         "category": "Web", 
         
-        "status": "disrupted",
+        "status": "notice",
         
         "unresolvedIssues": [
             {
               "is": "issue",
               "title": "Ion and Tin Experiencing Minor Issues",
               "createdAt": "2022-10-18 19:52:46 -0400 -0400",
-              "lastMod": "2022-10-19 12:30:48 -0400 -0400",
+              "lastMod": "2022-10-19 13:18:08 -0400 -0400",
               "permalink": "https://status.tjhsst.edu/issues/2022-10-18-ion-tin-minor-problems/",
-              "severity": "disrupted",
+              "severity": "notice",
               "resolved": false,
               "informational": false,
               "resolvedAt": "<no value>",
@@ -227,16 +227,16 @@
         "description": "Turn-In auto-grader",
         "category": "Academic Services", 
         
-        "status": "disrupted",
+        "status": "notice",
         
         "unresolvedIssues": [
             {
               "is": "issue",
               "title": "Ion and Tin Experiencing Minor Issues",
               "createdAt": "2022-10-18 19:52:46 -0400 -0400",
-              "lastMod": "2022-10-19 12:30:48 -0400 -0400",
+              "lastMod": "2022-10-19 13:18:08 -0400 -0400",
               "permalink": "https://status.tjhsst.edu/issues/2022-10-18-ion-tin-minor-problems/",
-              "severity": "disrupted",
+              "severity": "notice",
               "resolved": false,
               "informational": false,
               "resolvedAt": "<no value>",
@@ -291,16 +291,16 @@
         "description": "Services that monitor the health of the CSL",
         "category": "Infrastructure", 
         
-        "status": "disrupted",
+        "status": "notice",
         
         "unresolvedIssues": [
             {
               "is": "issue",
               "title": "Ion and Tin Experiencing Minor Issues",
               "createdAt": "2022-10-18 19:52:46 -0400 -0400",
-              "lastMod": "2022-10-19 12:30:48 -0400 -0400",
+              "lastMod": "2022-10-19 13:18:08 -0400 -0400",
               "permalink": "https://status.tjhsst.edu/issues/2022-10-18-ion-tin-minor-problems/",
-              "severity": "disrupted",
+              "severity": "notice",
               "resolved": false,
               "informational": false,
               "resolvedAt": "<no value>",
@@ -314,7 +314,7 @@
   
   
   "buildDate": "2022-10-19",
-  "buildTime": "17:08",
+  "buildTime": "17:18",
   "buildTimezone": "UTC",
   "colorBrand": "#0048ab",
   "colorOk": "#37b371",
