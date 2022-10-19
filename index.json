@@ -59,10 +59,24 @@
         "description": "TJ's intranet",
         "category": "Web", 
         
-        "status": "ok",
+        "status": "notice",
         
-        "unresolvedIssues": []
-        
+        "unresolvedIssues": [
+            {
+              "is": "issue",
+              "title": "Ion and Tin Experiencing Minor Issues",
+              "createdAt": "2022-10-18 19:52:46 -0400 -0400",
+              "lastMod": "2022-10-18 20:16:48 -0400 -0400",
+              "permalink": "https://status.tjhsst.edu/issues/2022-10-18-ion-tin-minor-problems/",
+              "severity": "notice",
+              "resolved": false,
+              "informational": false,
+              "resolvedAt": "<no value>",
+              "affected": ["Ion", "Tin"],
+              "filename": "2022-10-18-ion-tin-minor-problems.md"
+            }
+          
+        ]
       },
       {
         "name": "Director",
@@ -213,10 +227,24 @@
         "description": "Turn-In auto-grader",
         "category": "Academic Services", 
         
-        "status": "ok",
+        "status": "notice",
         
-        "unresolvedIssues": []
-        
+        "unresolvedIssues": [
+            {
+              "is": "issue",
+              "title": "Ion and Tin Experiencing Minor Issues",
+              "createdAt": "2022-10-18 19:52:46 -0400 -0400",
+              "lastMod": "2022-10-18 20:16:48 -0400 -0400",
+              "permalink": "https://status.tjhsst.edu/issues/2022-10-18-ion-tin-minor-problems/",
+              "severity": "notice",
+              "resolved": false,
+              "informational": false,
+              "resolvedAt": "<no value>",
+              "affected": ["Ion", "Tin"],
+              "filename": "2022-10-18-ion-tin-minor-problems.md"
+            }
+          
+        ]
       },
       {
         "name": "Othello",
@@ -271,8 +299,8 @@
   ],
   
   
-  "buildDate": "2022-08-29",
-  "buildTime": "20:03",
+  "buildDate": "2022-10-19",
+  "buildTime": "00:17",
   "buildTimezone": "UTC",
   "colorBrand": "#0048ab",
   "colorOk": "#37b371",

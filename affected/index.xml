@@ -8,13 +8,33 @@
     <generator>github.com/cstate</generator>
     <language>en</language>
     
-    <lastBuildDate>2022-08-24T18:20:00-04:00</lastBuildDate>
-    <updated>2022-08-24T18:20:00-04:00</updated>
+    <lastBuildDate>2022-10-18T19:52:46-04:00</lastBuildDate>
+    <updated>2022-10-18T19:52:46-04:00</updated>
     
     
     
       <atom:link href="https://status.tjhsst.edu/affected/index.xml" rel="self" type="application/rss+xml" />
     
+    
+      <item>
+        <title>Ion</title>
+        <link>https://status.tjhsst.edu/affected/ion/</link>
+        <pubDate>Tue, 18 Oct 2022 19:52:46 -0400</pubDate>
+        <guid>https://status.tjhsst.edu/affected/ion/</guid>
+        <category></category>
+        <description></description>
+        <content type="html"></content>
+      </item>
+    
+      <item>
+        <title>Tin</title>
+        <link>https://status.tjhsst.edu/affected/tin/</link>
+        <pubDate>Tue, 18 Oct 2022 19:52:46 -0400</pubDate>
+        <guid>https://status.tjhsst.edu/affected/tin/</guid>
+        <category></category>
+        <description></description>
+        <content type="html"></content>
+      </item>
     
       <item>
         <title>Director</title>
@@ -41,16 +61,6 @@
         <link>https://status.tjhsst.edu/affected/dns/</link>
         <pubDate>Sun, 22 May 2022 05:32:40 -0400</pubDate>
         <guid>https://status.tjhsst.edu/affected/dns/</guid>
-        <category></category>
-        <description></description>
-        <content type="html"></content>
-      </item>
-    
-      <item>
-        <title>Ion</title>
-        <link>https://status.tjhsst.edu/affected/ion/</link>
-        <pubDate>Sun, 22 May 2022 05:32:40 -0400</pubDate>
-        <guid>https://status.tjhsst.edu/affected/ion/</guid>
         <category></category>
         <description></description>
         <content type="html"></content>
@@ -91,16 +101,6 @@
         <link>https://status.tjhsst.edu/affected/signage/</link>
         <pubDate>Sun, 22 May 2022 05:32:40 -0400</pubDate>
         <guid>https://status.tjhsst.edu/affected/signage/</guid>
-        <category></category>
-        <description></description>
-        <content type="html"></content>
-      </item>
-    
-      <item>
-        <title>Tin</title>
-        <link>https://status.tjhsst.edu/affected/tin/</link>
-        <pubDate>Sun, 22 May 2022 05:32:40 -0400</pubDate>
-        <guid>https://status.tjhsst.edu/affected/tin/</guid>
         <category></category>
         <description></description>
         <content type="html"></content>
