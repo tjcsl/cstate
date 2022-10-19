@@ -7,7 +7,7 @@
   "languageCode": "en",
   "baseURL": "https://status.tjhsst.edu", 
   "description": "We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.",
-  "summaryStatus": "notice", 
+  "summaryStatus": "disrupted", 
   "categories": [
       {
         "name": "Web",
@@ -59,7 +59,7 @@
         "description": "TJ's intranet",
         "category": "Web", 
         
-        "status": "notice",
+        "status": "disrupted",
         
         "unresolvedIssues": [
             {
@@ -68,7 +68,7 @@
               "createdAt": "2022-10-18 19:52:46 -0400 -0400",
               "lastMod": "2022-10-18 20:16:48 -0400 -0400",
               "permalink": "https://status.tjhsst.edu/issues/2022-10-18-ion-tin-minor-problems/",
-              "severity": "notice",
+              "severity": "disrupted",
               "resolved": false,
               "informational": false,
               "resolvedAt": "<no value>",
@@ -227,7 +227,7 @@
         "description": "Turn-In auto-grader",
         "category": "Academic Services", 
         
-        "status": "notice",
+        "status": "disrupted",
         
         "unresolvedIssues": [
             {
@@ -236,7 +236,7 @@
               "createdAt": "2022-10-18 19:52:46 -0400 -0400",
               "lastMod": "2022-10-18 20:16:48 -0400 -0400",
               "permalink": "https://status.tjhsst.edu/issues/2022-10-18-ion-tin-minor-problems/",
-              "severity": "notice",
+              "severity": "disrupted",
               "resolved": false,
               "informational": false,
               "resolvedAt": "<no value>",
@@ -300,7 +300,7 @@
   
   
   "buildDate": "2022-10-19",
-  "buildTime": "00:17",
+  "buildTime": "00:21",
   "buildTimezone": "UTC",
   "colorBrand": "#0048ab",
   "colorOk": "#37b371",
