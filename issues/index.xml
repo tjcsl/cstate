@@ -70,11 +70,11 @@ We are not entirely sure what triggered the shutdown, but we do know that a cruc
       </item>
     
       <item>
-        <title>Cluster Maintenance</title>
+        <title>[Resolved] Cluster Maintenance</title>
         <link>https://status.tjhsst.edu/issues/2022-04-21-cluster-maintenance/</link>
         <pubDate>Wed, 06 Apr 2022 14:25:00 -0400</pubDate>
         <guid>https://status.tjhsst.edu/issues/2022-04-21-cluster-maintenance/</guid>
-        <category></category>
+        <category>2022-04-10 14:25:00 -0400</category>
         <description>Some nodes of the Borg cluster are currently inactive. Sysadmins are working on restoring the cluster to full operation.</description>
         <content type="html">&lt;p&gt;Some nodes of the Borg cluster are currently inactive. Sysadmins are working on restoring the cluster to full operation.&lt;/p&gt;
 </content>

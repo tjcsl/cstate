@@ -153,24 +153,10 @@
         "description": "One of TJ's computing clusters (40 nodes)",
         "category": "Cluster", 
         
-        "status": "notice",
+        "status": "ok",
         
-        "unresolvedIssues": [
-            {
-              "is": "issue",
-              "title": "Cluster Maintenance",
-              "createdAt": "2022-04-06 14:25:00 -0400 -0400",
-              "lastMod": "2022-04-21 14:16:16 -0400 -0400",
-              "permalink": "https://status.tjhsst.edu/issues/2022-04-21-cluster-maintenance/",
-              "severity": "notice",
-              "resolved": false,
-              "informational": false,
-              "resolvedAt": "<no value>",
-              "affected": ["Borg Cluster"],
-              "filename": "2022-04-21-cluster-maintenance.md"
-            }
-          
-        ]
+        "unresolvedIssues": []
+        
       },
       {
         "name": "HPC Cluster",
@@ -314,7 +300,7 @@
   
   
   "buildDate": "2022-10-19",
-  "buildTime": "17:20",
+  "buildTime": "17:26",
   "buildTimezone": "UTC",
   "colorBrand": "#0048ab",
   "colorOk": "#37b371",
