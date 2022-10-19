@@ -73,7 +73,7 @@
               "informational": false,
               "resolvedAt": "<no value>",
               "affected": ["Ion", "Tin", "Monitoring"],
-              "filename": "2022-10-18-ion-tin-minor-problems.md"
+              "filename": "2022-10-18-ion-tin-minor-problems.html"
             }
           
         ]
@@ -241,7 +241,7 @@
               "informational": false,
               "resolvedAt": "<no value>",
               "affected": ["Ion", "Tin", "Monitoring"],
-              "filename": "2022-10-18-ion-tin-minor-problems.md"
+              "filename": "2022-10-18-ion-tin-minor-problems.html"
             }
           
         ]
@@ -305,7 +305,7 @@
               "informational": false,
               "resolvedAt": "<no value>",
               "affected": ["Ion", "Tin", "Monitoring"],
-              "filename": "2022-10-18-ion-tin-minor-problems.md"
+              "filename": "2022-10-18-ion-tin-minor-problems.html"
             }
           
         ]
@@ -314,7 +314,7 @@
   
   
   "buildDate": "2022-10-19",
-  "buildTime": "16:32",
+  "buildTime": "16:36",
   "buildTimezone": "UTC",
   "colorBrand": "#0048ab",
   "colorOk": "#37b371",
