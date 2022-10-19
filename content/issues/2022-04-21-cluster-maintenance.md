@@ -1,8 +1,8 @@
 ---
 title: Cluster Maintenance
 date: 2022-04-06 14:25:00 -0400
-resolved: false
-resolvedWhen:
+resolved: true
+resolvedWhen: 2022-04-10 14:25:00 -0400
 # You can use: down, disrupted, notice
 severity: notice
 affected:
