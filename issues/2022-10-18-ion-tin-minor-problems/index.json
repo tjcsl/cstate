@@ -2,12 +2,12 @@
   "is": "issue",
   "title": "Ion and Tin Experiencing Minor Issues",
   "createdAt": "2022-10-18 19:52:46 -0400 -0400",
-  "lastMod": "2022-10-18 20:16:48 -0400 -0400",
+  "lastMod": "2022-10-19 08:42:54 -0400 -0400",
   "permalink": "https://status.tjhsst.edu/issues/2022-10-18-ion-tin-minor-problems/",
   "severity": "disrupted",
   "resolved": false,
   "informational": false,
   "resolvedAt": "<no value>",
-  "affected": ["Ion", "Tin"],
+  "affected": ["Ion", "Tin", "Monitoring"],
   "filename": "2022-10-18-ion-tin-minor-problems.md"
 }
