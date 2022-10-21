@@ -25,7 +25,7 @@
     ,
       {
         "name": "Academic Services",
-        "description": "Services often used by classes",
+        "description": "Services used by TJ classes",
         "hideTitle": false,
         "closedByDefault": false
       }
@@ -38,8 +38,8 @@
       }
     ,
       {
-        "name": "Remote Access Servers",
-        "description": "SSH gateways to the CSL",
+        "name": "Workstations",
+        "description": "CSL Linux workstations",
         "hideTitle": false,
         "closedByDefault": false
       }
@@ -119,26 +119,6 @@
         
       },
       {
-        "name": "RAS1",
-        "description": "One of TJ's remote access servers",
-        "category": "Remote Access Servers", 
-        
-        "status": "ok",
-        
-        "unresolvedIssues": []
-        
-      },
-      {
-        "name": "RAS2",
-        "description": "One of TJ's remote access servers",
-        "category": "Remote Access Servers", 
-        
-        "status": "ok",
-        
-        "unresolvedIssues": []
-        
-      },
-      {
         "name": "JupyterHub",
         "description": "Frontend to run Jupyter notebooks on TJ's clusters",
         "category": "Cluster", 
@@ -162,6 +142,36 @@
         "name": "HPC Cluster",
         "description": "One of TJ's computing clusters (12 nodes)",
         "category": "Cluster", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "Remote Access Servers",
+        "description": "SSH gateways to the CSL",
+        "category": "Cluster", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "Room 200 Workstations",
+        "description": "Workstations located in Room 200",
+        "category": "Workstations", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "Room 202 Workstations",
+        "description": "Workstations located in Room 202",
+        "category": "Workstations", 
         
         "status": "ok",
         
@@ -299,8 +309,8 @@
   ],
   
   
-  "buildDate": "2022-10-19",
-  "buildTime": "17:26",
+  "buildDate": "2022-10-21",
+  "buildTime": "00:55",
   "buildTimezone": "UTC",
   "colorBrand": "#0048ab",
   "colorOk": "#37b371",
