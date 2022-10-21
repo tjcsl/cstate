@@ -3,7 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://status.tjhsst.edu/affected/</loc>
-    <lastmod>2022-10-19T13:23:46-04:00</lastmod>
+    <lastmod>2022-10-20T20:57:04-04:00</lastmod>
+  </url><url>
+    <loc>https://status.tjhsst.edu/issues/</loc>
+    <lastmod>2022-10-20T20:57:04-04:00</lastmod>
+  </url><url>
+    <loc>https://status.tjhsst.edu/affected/room-202-workstations/</loc>
+    <lastmod>2022-10-20T20:57:04-04:00</lastmod>
+  </url><url>
+    <loc>https://status.tjhsst.edu/</loc>
+    <lastmod>2022-10-20T20:57:04-04:00</lastmod>
+  </url><url>
+    <loc>https://status.tjhsst.edu/issues/2022-10-20-workstations-issues/</loc>
+    <lastmod>2022-10-20T20:57:04-04:00</lastmod>
   </url><url>
     <loc>https://status.tjhsst.edu/affected/ion/</loc>
     <lastmod>2022-10-19T13:18:08-04:00</lastmod>
@@ -11,17 +23,11 @@
     <loc>https://status.tjhsst.edu/issues/2022-10-18-ion-tin-minor-problems/</loc>
     <lastmod>2022-10-19T13:18:08-04:00</lastmod>
   </url><url>
-    <loc>https://status.tjhsst.edu/issues/</loc>
-    <lastmod>2022-10-19T13:23:46-04:00</lastmod>
-  </url><url>
     <loc>https://status.tjhsst.edu/affected/monitoring/</loc>
     <lastmod>2022-10-19T13:18:08-04:00</lastmod>
   </url><url>
     <loc>https://status.tjhsst.edu/affected/tin/</loc>
     <lastmod>2022-10-19T13:18:08-04:00</lastmod>
-  </url><url>
-    <loc>https://status.tjhsst.edu/</loc>
-    <lastmod>2022-10-19T13:23:46-04:00</lastmod>
   </url><url>
     <loc>https://status.tjhsst.edu/affected/director/</loc>
     <lastmod>2022-08-29T16:03:32-04:00</lastmod>

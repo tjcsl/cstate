@@ -8,13 +8,24 @@
     <generator>github.com/cstate</generator>
     <language>en</language>
     
-    <lastBuildDate>2022-10-18T19:52:46-04:00</lastBuildDate>
-    <updated>2022-10-18T19:52:46-04:00</updated>
+    <lastBuildDate>2022-10-20T20:44:46-04:00</lastBuildDate>
+    <updated>2022-10-20T20:44:46-04:00</updated>
     
     
     
       <atom:link href="https://status.tjhsst.edu/issues/index.xml" rel="self" type="application/rss+xml" />
     
+    
+      <item>
+        <title>Workstations Issues</title>
+        <link>https://status.tjhsst.edu/issues/2022-10-20-workstations-issues/</link>
+        <pubDate>Thu, 20 Oct 2022 20:44:46 -0400</pubDate>
+        <guid>https://status.tjhsst.edu/issues/2022-10-20-workstations-issues/</guid>
+        <category></category>
+        <description>Sysadmins are investigating monitor and display server/desktop environment issues in some 202 workstations.</description>
+        <content type="html">&lt;p&gt;Sysadmins are investigating monitor and display server/desktop environment issues in some 202 workstations.&lt;/p&gt;
+</content>
+      </item>
     
       <item>
         <title>Ion and Tin Experiencing Minor Issues</title>
