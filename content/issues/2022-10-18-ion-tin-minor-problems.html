@@ -1,8 +1,8 @@
 ---
 title: Ion and Tin Experiencing Minor Issues
 date: 2022-10-18T19:52:46-04:00
-resolved: false
-resolvedWhen:
+resolved: true
+resolvedWhen: 2022-10-20T21:00:00-04:00
 # You can use: down, disrupted, notice
 severity: notice
 affected: 
@@ -12,10 +12,17 @@ affected:
 section: issue
 ---
 <p>
-<b>Update October 19, 1:15pm:</b>
+<b>Incident Report, October 20, 9:00pm:</b><br>
+Based on our investigation, we have determined that a network issue involving Ion's backend cache database caused the HTTP 500 errors. This affected areas of Ion involving the use of the caching system, but core Ion webservers and databases remained functional. Upon restoration of the network connection, all areas of Ion became accessible.
+Timeout errors on Tin were caused by a separate, unrelated incident due to an unexpected load increase that temporarily overwhelmed the Tin server, causing it to restart and logout user sessions. 
+We sincerely apologize for the inconvenience this has caused. We have taken steps to prevent this from happening again, including resolving internal network issues on Ion and increasing memory and load capacity on Tin.
+<br><br>
+<b>Update, October 19, 1:15pm:</b><br>
 All services have been restored. Sysadmins are continuing to investigate the cause of the issues.
 <br><br>
-<b>Update October 19, 8:40am:</b> A fix has been identified for unclickable links on the Ion Dashboard and will be deployed as soon as possible. To circumvent this for now, zoom out the page (Ctrl -) and the buttons will work. Tin is adjusting to the higher load from computer science classes, and may respond slower than normal, but has been restored to normal functionality.</b> 
+<b>Update, October 19, 8:40am:</b><br>
+A fix has been identified for unclickable links on the Ion Dashboard and will be deployed as soon as possible. Tin is adjusting to the higher load from computer science classes, and may respond slower than normal, but has been restored to normal functionality.</b> 
 <br><br>
-<b>Initial update, October 18, 7:52pm:</b> Starting at 11pm on October 17, Ion started responding with 500 Internal Server Errors after a routine deployment. This was resolved midmorning October 18. However, some minor lingering issues persist including widget links on the right of the Dashboard intermittently not working. This can be circumvented using the left navigation bar. Some users are also reporting timeouts and/or session expirations on Tin; we encourage users to use a code editing application and upload a file instead of using the built-in web editor at this time. We apologize for the inconvenience; Sysadmins are working on complete restoration of services. We are also continuing to investigate the cause of the issues and will provide an update when we have more information.
+<b>Initial Announcement, October 18, 7:50pm:</b><br>
+Starting at 11pm on October 17, Ion started responding with 500 Internal Server Errors after a routine deployment. This was resolved midmorning October 18. However, some minor lingering issues persist including widget links on the right of the Dashboard intermittently not working. This can be circumvented using the left navigation bar. Some users are also reporting timeouts and/or session expirations on Tin; we encourage users to use a code editing application and upload a file instead of using the built-in web editor at this time. We apologize for the inconvenience; Sysadmins are working on complete restoration of services. We are also continuing to investigate the cause of the issues and will provide an update when we have more information.
 </p>
