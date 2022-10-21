@@ -148,11 +148,11 @@ params:
     - name: Mail
       description: Webmail and mail servers
     - name: Academic Services
-      description: Services often used by classes
+      description: Services used by TJ classes
     - name: Cluster
       description: High performance compute clusters and JupyterHub
-    - name: Remote Access Servers
-      description: SSH gateways to the CSL
+    - name: Workstations
+      description: CSL Linux workstations 
     - name: Infrastructure
       description: Backend for CSL services
 
@@ -182,12 +182,6 @@ params:
     - name: Mail Servers
       description: The servers handling tjhsst.edu mail
       category: Mail
-    - name: RAS1
-      description: One of TJ's remote access servers
-      category: Remote Access Servers
-    - name: RAS2
-      description: One of TJ's remote access servers
-      category: Remote Access Servers
     - name: JupyterHub
       description: Frontend to run Jupyter notebooks on TJ's clusters
       category: Cluster
@@ -198,6 +192,15 @@ params:
     - name: HPC Cluster
       description: One of TJ's computing clusters (12 nodes)
       category: Cluster
+    - name: Remote Access Servers
+      description: SSH gateways to the CSL
+      category: Cluster
+    - name: Room 200 Workstations
+      description: Workstations located in Room 200
+      category: Workstations
+    - name: Room 202 Workstations
+      description: Workstations located in Room 202
+      category: Workstations
     - name: Kerberos
       description: Authentication for CSL users
       category: Infrastructure
