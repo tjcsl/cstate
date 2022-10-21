@@ -2,18 +2,18 @@
   "is": "system",
   "title": "Monitoring",
   "permalink": "https://status.tjhsst.edu/affected/monitoring/",
-  "status": "notice", 
+  "status": "ok", 
   "pages": [
       {
         "is": "issue",
         "title": "Ion and Tin Experiencing Minor Issues",
         "createdAt": "2022-10-18 19:52:46 -0400 -0400",
-        "lastMod": "2022-10-19 13:18:08 -0400 -0400",
+        "lastMod": "2022-10-20 21:23:17 -0400 -0400",
         "permalink": "https://status.tjhsst.edu/issues/2022-10-18-ion-tin-minor-problems/",
         "severity": "notice",
-        "resolved": false,
+        "resolved": true,
         "informational": false,
-        "resolvedAt": "<no value>",
+        "resolvedAt": "2022-10-20T21:00:00-04:00",
         "affected": ["Ion", "Tin", "Monitoring"],
         "filename": "2022-10-18-ion-tin-minor-problems.html"
       }
