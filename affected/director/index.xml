@@ -17,11 +17,11 @@
     
     
       <item>
-        <title>Director Web Management Interface Down</title>
+        <title>[Resolved] Director Web Management Interface Down</title>
         <link>https://status.tjhsst.edu/issues/2022-11-15-director-interface/</link>
         <pubDate>Tue, 15 Nov 2022 12:00:00 -0500</pubDate>
         <guid>https://status.tjhsst.edu/issues/2022-11-15-director-interface/</guid>
-        <category></category>
+        <category>2022-11-15T17:00:00-05:00</category>
         <description>The Director management interface is currently unreachable due to 504 timeouts. Director sites are functional. The issue is caused by an isolated backend service for the management interface currently being down; Sysadmins are working on restoring functionality.</description>
         <content type="html">&lt;p&gt;The Director management interface is currently unreachable due to 504 timeouts. Director sites are functional. The issue is caused by an isolated backend service for the management interface currently being down; Sysadmins are working on restoring functionality.&lt;/p&gt;
 </content>
