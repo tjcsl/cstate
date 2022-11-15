@@ -8,7 +8,7 @@
       <generator>github.com/cstate</generator>
       <language>en</language>
       
-      <lastBuildDate>Tue, 15 Nov 2022 15:00:00 -0400</lastBuildDate>
+      <lastBuildDate>Tue, 15 Nov 2022 12:00:00 -0500</lastBuildDate>
       
       
       
@@ -17,12 +17,12 @@
       
       
         <item>
-          <title>Director Manager Down</title>
-          <link>https://status.tjhsst.edu/issues/2022-11-15-director-downtime/</link>
-          <pubDate>Tue, 15 Nov 2022 15:00:00 -0400</pubDate>
-          <guid>https://status.tjhsst.edu/issues/2022-11-15-director-downtime/</guid>
+          <title>Director Web Management Interface Down</title>
+          <link>https://status.tjhsst.edu/issues/2022-11-15-director-interface/</link>
+          <pubDate>Tue, 15 Nov 2022 12:00:00 -0500</pubDate>
+          <guid>https://status.tjhsst.edu/issues/2022-11-15-director-interface/</guid>
           <category></category>
-          <description>&lt;!-- raw HTML omitted --&gt;
+          <description>&lt;p&gt;The Director management interface is currently unreachable due to 504 timeouts. Director sites are functional. The issue is caused by an isolated backend service for the management interface currently being down; Sysadmins are working on restoring functionality.&lt;/p&gt;
 </description>
         </item>
       
