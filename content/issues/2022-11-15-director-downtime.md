@@ -4,7 +4,7 @@ date: 2022-11-15T15:00:00-04:00
 resolved: false
 resolvedWhen: 
 # You can use: down, disrupted, notice
-severity: down
+severity: disrupted
 affected: 
  - Director
 section: issue
