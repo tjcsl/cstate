@@ -8,13 +8,24 @@
     <generator>github.com/cstate</generator>
     <language>en</language>
     
-    <lastBuildDate>2022-10-20T20:44:46-04:00</lastBuildDate>
-    <updated>2022-10-20T20:44:46-04:00</updated>
+    <lastBuildDate>2022-11-15T15:00:00-04:00</lastBuildDate>
+    <updated>2022-11-15T15:00:00-04:00</updated>
     
     
     
       <atom:link href="https://status.tjhsst.edu/issues/index.xml" rel="self" type="application/rss+xml" />
     
+    
+      <item>
+        <title>Director Manager Down</title>
+        <link>https://status.tjhsst.edu/issues/2022-11-15-director-downtime/</link>
+        <pubDate>Tue, 15 Nov 2022 15:00:00 -0400</pubDate>
+        <guid>https://status.tjhsst.edu/issues/2022-11-15-director-downtime/</guid>
+        <category></category>
+        <description> </description>
+        <content type="html">&lt;!-- raw HTML omitted --&gt;
+</content>
+      </item>
     
       <item>
         <title>Workstations Issues</title>

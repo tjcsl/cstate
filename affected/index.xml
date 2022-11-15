@@ -8,13 +8,23 @@
     <generator>github.com/cstate</generator>
     <language>en</language>
     
-    <lastBuildDate>2022-10-20T20:44:46-04:00</lastBuildDate>
-    <updated>2022-10-20T20:44:46-04:00</updated>
+    <lastBuildDate>2022-11-15T15:00:00-04:00</lastBuildDate>
+    <updated>2022-11-15T15:00:00-04:00</updated>
     
     
     
       <atom:link href="https://status.tjhsst.edu/affected/index.xml" rel="self" type="application/rss+xml" />
     
+    
+      <item>
+        <title>Director</title>
+        <link>https://status.tjhsst.edu/affected/director/</link>
+        <pubDate>Tue, 15 Nov 2022 15:00:00 -0400</pubDate>
+        <guid>https://status.tjhsst.edu/affected/director/</guid>
+        <category></category>
+        <description></description>
+        <content type="html"></content>
+      </item>
     
       <item>
         <title>Room 202 Workstations</title>
@@ -51,16 +61,6 @@
         <link>https://status.tjhsst.edu/affected/tin/</link>
         <pubDate>Tue, 18 Oct 2022 19:52:46 -0400</pubDate>
         <guid>https://status.tjhsst.edu/affected/tin/</guid>
-        <category></category>
-        <description></description>
-        <content type="html"></content>
-      </item>
-    
-      <item>
-        <title>Director</title>
-        <link>https://status.tjhsst.edu/affected/director/</link>
-        <pubDate>Wed, 24 Aug 2022 18:20:00 -0400</pubDate>
-        <guid>https://status.tjhsst.edu/affected/director/</guid>
         <category></category>
         <description></description>
         <content type="html"></content>

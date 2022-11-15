@@ -6,6 +6,20 @@
   "pages": [
       {
         "is": "issue",
+        "title": "Director Manager Down",
+        "createdAt": "2022-11-15 15:00:00 -0400 -0400",
+        "lastMod": "2022-11-15 15:12:11 -0500 -0500",
+        "permalink": "https://status.tjhsst.edu/issues/2022-11-15-director-downtime/",
+        "severity": "down",
+        "resolved": false,
+        "informational": false,
+        "resolvedAt": "<no value>",
+        "affected": ["Director"],
+        "filename": "2022-11-15-director-downtime.md"
+      }
+    ,
+      {
+        "is": "issue",
         "title": "Workstations Issues",
         "createdAt": "2022-10-20 20:44:46 -0400 -0400",
         "lastMod": "2022-10-20 20:57:04 -0400 -0400",
