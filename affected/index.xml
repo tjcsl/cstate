@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <link rel="alternate" type="text/html" href="https://status.tjhsst.edu"/>
+    <link rel="alternate" type="text/html" href="https://cstate.tjhsst.edu"/>
     <title>Affected on tjCSL Status</title>
-    <link>https://status.tjhsst.edu/affected/</link>
+    <link>https://cstate.tjhsst.edu/affected/</link>
     <description>Incident history</description>
     <generator>github.com/cstate</generator>
     <language>en</language>
@@ -13,14 +13,14 @@
     
     
     
-      <atom:link href="https://status.tjhsst.edu/affected/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://cstate.tjhsst.edu/affected/index.xml" rel="self" type="application/rss+xml" />
     
     
       <item>
         <title>Director</title>
-        <link>https://status.tjhsst.edu/affected/director/</link>
+        <link>https://cstate.tjhsst.edu/affected/director/</link>
         <pubDate>Tue, 15 Nov 2022 12:00:00 -0500</pubDate>
-        <guid>https://status.tjhsst.edu/affected/director/</guid>
+        <guid>https://cstate.tjhsst.edu/affected/director/</guid>
         <category></category>
         <description></description>
         <content type="html"></content>
@@ -28,9 +28,9 @@
     
       <item>
         <title>Room 202 Workstations</title>
-        <link>https://status.tjhsst.edu/affected/room-202-workstations/</link>
+        <link>https://cstate.tjhsst.edu/affected/room-202-workstations/</link>
         <pubDate>Thu, 20 Oct 2022 20:44:46 -0400</pubDate>
-        <guid>https://status.tjhsst.edu/affected/room-202-workstations/</guid>
+        <guid>https://cstate.tjhsst.edu/affected/room-202-workstations/</guid>
         <category></category>
         <description></description>
         <content type="html"></content>
@@ -38,9 +38,9 @@
     
       <item>
         <title>Ion</title>
-        <link>https://status.tjhsst.edu/affected/ion/</link>
+        <link>https://cstate.tjhsst.edu/affected/ion/</link>
         <pubDate>Tue, 18 Oct 2022 19:52:46 -0400</pubDate>
-        <guid>https://status.tjhsst.edu/affected/ion/</guid>
+        <guid>https://cstate.tjhsst.edu/affected/ion/</guid>
         <category></category>
         <description></description>
         <content type="html"></content>
@@ -48,9 +48,9 @@
     
       <item>
         <title>Monitoring</title>
-        <link>https://status.tjhsst.edu/affected/monitoring/</link>
+        <link>https://cstate.tjhsst.edu/affected/monitoring/</link>
         <pubDate>Tue, 18 Oct 2022 19:52:46 -0400</pubDate>
-        <guid>https://status.tjhsst.edu/affected/monitoring/</guid>
+        <guid>https://cstate.tjhsst.edu/affected/monitoring/</guid>
         <category></category>
         <description></description>
         <content type="html"></content>
@@ -58,9 +58,9 @@
     
       <item>
         <title>Tin</title>
-        <link>https://status.tjhsst.edu/affected/tin/</link>
+        <link>https://cstate.tjhsst.edu/affected/tin/</link>
         <pubDate>Tue, 18 Oct 2022 19:52:46 -0400</pubDate>
-        <guid>https://status.tjhsst.edu/affected/tin/</guid>
+        <guid>https://cstate.tjhsst.edu/affected/tin/</guid>
         <category></category>
         <description></description>
         <content type="html"></content>
@@ -68,9 +68,9 @@
     
       <item>
         <title>AI Grader</title>
-        <link>https://status.tjhsst.edu/affected/ai-grader/</link>
+        <link>https://cstate.tjhsst.edu/affected/ai-grader/</link>
         <pubDate>Sun, 22 May 2022 05:32:40 -0400</pubDate>
-        <guid>https://status.tjhsst.edu/affected/ai-grader/</guid>
+        <guid>https://cstate.tjhsst.edu/affected/ai-grader/</guid>
         <category></category>
         <description></description>
         <content type="html"></content>
@@ -78,9 +78,9 @@
     
       <item>
         <title>DNS</title>
-        <link>https://status.tjhsst.edu/affected/dns/</link>
+        <link>https://cstate.tjhsst.edu/affected/dns/</link>
         <pubDate>Sun, 22 May 2022 05:32:40 -0400</pubDate>
-        <guid>https://status.tjhsst.edu/affected/dns/</guid>
+        <guid>https://cstate.tjhsst.edu/affected/dns/</guid>
         <category></category>
         <description></description>
         <content type="html"></content>
@@ -88,9 +88,9 @@
     
       <item>
         <title>JupyterHub</title>
-        <link>https://status.tjhsst.edu/affected/jupyterhub/</link>
+        <link>https://cstate.tjhsst.edu/affected/jupyterhub/</link>
         <pubDate>Sun, 22 May 2022 05:32:40 -0400</pubDate>
-        <guid>https://status.tjhsst.edu/affected/jupyterhub/</guid>
+        <guid>https://cstate.tjhsst.edu/affected/jupyterhub/</guid>
         <category></category>
         <description></description>
         <content type="html"></content>
@@ -98,9 +98,9 @@
     
       <item>
         <title>Matterless</title>
-        <link>https://status.tjhsst.edu/affected/matterless/</link>
+        <link>https://cstate.tjhsst.edu/affected/matterless/</link>
         <pubDate>Sun, 22 May 2022 05:32:40 -0400</pubDate>
-        <guid>https://status.tjhsst.edu/affected/matterless/</guid>
+        <guid>https://cstate.tjhsst.edu/affected/matterless/</guid>
         <category></category>
         <description></description>
         <content type="html"></content>
@@ -108,9 +108,9 @@
     
       <item>
         <title>Othello</title>
-        <link>https://status.tjhsst.edu/affected/othello/</link>
+        <link>https://cstate.tjhsst.edu/affected/othello/</link>
         <pubDate>Sun, 22 May 2022 05:32:40 -0400</pubDate>
-        <guid>https://status.tjhsst.edu/affected/othello/</guid>
+        <guid>https://cstate.tjhsst.edu/affected/othello/</guid>
         <category></category>
         <description></description>
         <content type="html"></content>
@@ -118,9 +118,9 @@
     
       <item>
         <title>Signage</title>
-        <link>https://status.tjhsst.edu/affected/signage/</link>
+        <link>https://cstate.tjhsst.edu/affected/signage/</link>
         <pubDate>Sun, 22 May 2022 05:32:40 -0400</pubDate>
-        <guid>https://status.tjhsst.edu/affected/signage/</guid>
+        <guid>https://cstate.tjhsst.edu/affected/signage/</guid>
         <category></category>
         <description></description>
         <content type="html"></content>
@@ -128,9 +128,9 @@
     
       <item>
         <title>Webmail</title>
-        <link>https://status.tjhsst.edu/affected/webmail/</link>
+        <link>https://cstate.tjhsst.edu/affected/webmail/</link>
         <pubDate>Sun, 22 May 2022 05:32:40 -0400</pubDate>
-        <guid>https://status.tjhsst.edu/affected/webmail/</guid>
+        <guid>https://cstate.tjhsst.edu/affected/webmail/</guid>
         <category></category>
         <description></description>
         <content type="html"></content>
@@ -138,9 +138,9 @@
     
       <item>
         <title>Borg Cluster</title>
-        <link>https://status.tjhsst.edu/affected/borg-cluster/</link>
+        <link>https://cstate.tjhsst.edu/affected/borg-cluster/</link>
         <pubDate>Wed, 06 Apr 2022 14:25:00 -0400</pubDate>
-        <guid>https://status.tjhsst.edu/affected/borg-cluster/</guid>
+        <guid>https://cstate.tjhsst.edu/affected/borg-cluster/</guid>
         <category></category>
         <description></description>
         <content type="html"></content>

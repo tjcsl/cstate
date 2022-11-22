@@ -5,7 +5,7 @@
   "title": "tjCSL Status",
   "languageCodeHTML": "en",
   "languageCode": "en",
-  "baseURL": "https://status.tjhsst.edu", 
+  "baseURL": "https://cstate.tjhsst.edu", 
   "description": "We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.",
   "summaryStatus": "notice", 
   "categories": [
@@ -167,7 +167,7 @@
               "title": "Workstations Issues",
               "createdAt": "2022-10-20 20:44:46 -0400 -0400",
               "lastMod": "2022-10-20 20:57:04 -0400 -0400",
-              "permalink": "https://status.tjhsst.edu/issues/2022-10-20-workstations-issues/",
+              "permalink": "https://cstate.tjhsst.edu/issues/2022-10-20-workstations-issues/",
               "severity": "notice",
               "resolved": false,
               "informational": false,
@@ -281,8 +281,8 @@
   ],
   
   
-  "buildDate": "2022-11-15",
-  "buildTime": "23:59",
+  "buildDate": "2022-11-22",
+  "buildTime": "19:08",
   "buildTimezone": "UTC",
   "colorBrand": "#0048ab",
   "colorOk": "#37b371",
@@ -290,6 +290,6 @@
   "colorDown": "#e74141",
   "colorNotice": "#0048ab",
   "alwaysKeepBrandColor": "true",
-  "logo": "https://status.tjhsst.edu/csl.png",
+  "logo": "https://cstate.tjhsst.edu/csl.png",
   "googleAnalytics": "UA-00000000-1"
 }

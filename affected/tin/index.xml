@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <link rel="alternate" type="text/html" href="https://status.tjhsst.edu"/>
+    <link rel="alternate" type="text/html" href="https://cstate.tjhsst.edu"/>
     <title>Tin on tjCSL Status</title>
-    <link>https://status.tjhsst.edu/affected/tin/</link>
+    <link>https://cstate.tjhsst.edu/affected/tin/</link>
     <description>Incident history</description>
     <generator>github.com/cstate</generator>
     <language>en</language>
@@ -13,14 +13,14 @@
     
     
     
-      <atom:link href="https://status.tjhsst.edu/affected/tin/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://cstate.tjhsst.edu/affected/tin/index.xml" rel="self" type="application/rss+xml" />
     
     
       <item>
         <title>[Resolved] Ion and Tin Experiencing Minor Issues</title>
-        <link>https://status.tjhsst.edu/issues/2022-10-18-ion-tin-minor-problems/</link>
+        <link>https://cstate.tjhsst.edu/issues/2022-10-18-ion-tin-minor-problems/</link>
         <pubDate>Tue, 18 Oct 2022 19:52:46 -0400</pubDate>
-        <guid>https://status.tjhsst.edu/issues/2022-10-18-ion-tin-minor-problems/</guid>
+        <guid>https://cstate.tjhsst.edu/issues/2022-10-18-ion-tin-minor-problems/</guid>
         <category>2022-10-20T21:00:00-04:00</category>
         <description>Incident Report, October 20, 9:00pm:
 Based on our investigation, we have determined that a network issue involving Ion&#39;s backend cache database caused the HTTP 500 errors. This affected areas of Ion involving the use of the caching system, but core Ion webservers and databases remained functional. Upon restoration of the network connection, all areas of Ion became accessible. Timeout errors on Tin were caused by a separate, unrelated incident due to an unexpected load increase that temporarily overwhelmed the Tin server, causing it to restart and logout user sessions.</description>
@@ -44,9 +44,9 @@ Starting at 11pm on October 17, Ion started responding with 500 Internal Server 
     
       <item>
         <title>[Resolved] Web Services Down</title>
-        <link>https://status.tjhsst.edu/issues/2022-05-22-systems-down/</link>
+        <link>https://cstate.tjhsst.edu/issues/2022-05-22-systems-down/</link>
         <pubDate>Sun, 22 May 2022 05:32:40 -0400</pubDate>
-        <guid>https://status.tjhsst.edu/issues/2022-05-22-systems-down/</guid>
+        <guid>https://cstate.tjhsst.edu/issues/2022-05-22-systems-down/</guid>
         <category>2022-05-27T21:54:00-04:00</category>
         <description>Several of our web services unexpectedly went down in the morning of May 22, 2022. After several days of investigation, we have restored the services to full operation.
 We are not entirely sure what triggered the shutdown, but we do know that a crucial server managed by the TJHSST Tech Team crashed at some point between Friday 5/20 and Sunday 5/22, causing problems with our DNS servers (whose internal name resolution depended on said server).</description>

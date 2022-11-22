@@ -1,7 +1,7 @@
 {
   "is": "system",
   "title": "Room 202 Workstations",
-  "permalink": "https://status.tjhsst.edu/affected/room-202-workstations/",
+  "permalink": "https://cstate.tjhsst.edu/affected/room-202-workstations/",
   "status": "notice", 
   "pages": [
       {
@@ -9,7 +9,7 @@
         "title": "Workstations Issues",
         "createdAt": "2022-10-20 20:44:46 -0400 -0400",
         "lastMod": "2022-10-20 20:57:04 -0400 -0400",
-        "permalink": "https://status.tjhsst.edu/issues/2022-10-20-workstations-issues/",
+        "permalink": "https://cstate.tjhsst.edu/issues/2022-10-20-workstations-issues/",
         "severity": "notice",
         "resolved": false,
         "informational": false,

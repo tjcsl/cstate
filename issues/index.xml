@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <link rel="alternate" type="text/html" href="https://status.tjhsst.edu"/>
+    <link rel="alternate" type="text/html" href="https://cstate.tjhsst.edu"/>
     <title>Issues on tjCSL Status</title>
-    <link>https://status.tjhsst.edu/issues/</link>
+    <link>https://cstate.tjhsst.edu/issues/</link>
     <description>Incident history</description>
     <generator>github.com/cstate</generator>
     <language>en</language>
@@ -13,14 +13,14 @@
     
     
     
-      <atom:link href="https://status.tjhsst.edu/issues/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://cstate.tjhsst.edu/issues/index.xml" rel="self" type="application/rss+xml" />
     
     
       <item>
         <title>[Resolved] Director Web Management Interface Down</title>
-        <link>https://status.tjhsst.edu/issues/2022-11-15-director-interface/</link>
+        <link>https://cstate.tjhsst.edu/issues/2022-11-15-director-interface/</link>
         <pubDate>Tue, 15 Nov 2022 12:00:00 -0500</pubDate>
-        <guid>https://status.tjhsst.edu/issues/2022-11-15-director-interface/</guid>
+        <guid>https://cstate.tjhsst.edu/issues/2022-11-15-director-interface/</guid>
         <category>2022-11-15T17:00:00-05:00</category>
         <description>Resolved - November 15, 5PM: The issue has been resolved.
 Director is now fully functional after a restart of the backend service. We apologize for the inconvenience this may have caused.
@@ -40,9 +40,9 @@ Investigating - November 15, 12PM: We are investigating an issue causing the Dir
     
       <item>
         <title>Workstations Issues</title>
-        <link>https://status.tjhsst.edu/issues/2022-10-20-workstations-issues/</link>
+        <link>https://cstate.tjhsst.edu/issues/2022-10-20-workstations-issues/</link>
         <pubDate>Thu, 20 Oct 2022 20:44:46 -0400</pubDate>
-        <guid>https://status.tjhsst.edu/issues/2022-10-20-workstations-issues/</guid>
+        <guid>https://cstate.tjhsst.edu/issues/2022-10-20-workstations-issues/</guid>
         <category></category>
         <description>Sysadmins are investigating monitor and display server/desktop environment issues in some Room 202 workstations.</description>
         <content type="html">&lt;p&gt;Sysadmins are investigating monitor and display server/desktop environment issues in some Room 202 workstations.&lt;/p&gt;
@@ -51,9 +51,9 @@ Investigating - November 15, 12PM: We are investigating an issue causing the Dir
     
       <item>
         <title>[Resolved] Ion and Tin Experiencing Minor Issues</title>
-        <link>https://status.tjhsst.edu/issues/2022-10-18-ion-tin-minor-problems/</link>
+        <link>https://cstate.tjhsst.edu/issues/2022-10-18-ion-tin-minor-problems/</link>
         <pubDate>Tue, 18 Oct 2022 19:52:46 -0400</pubDate>
-        <guid>https://status.tjhsst.edu/issues/2022-10-18-ion-tin-minor-problems/</guid>
+        <guid>https://cstate.tjhsst.edu/issues/2022-10-18-ion-tin-minor-problems/</guid>
         <category>2022-10-20T21:00:00-04:00</category>
         <description>Incident Report, October 20, 9:00pm:
 Based on our investigation, we have determined that a network issue involving Ion&#39;s backend cache database caused the HTTP 500 errors. This affected areas of Ion involving the use of the caching system, but core Ion webservers and databases remained functional. Upon restoration of the network connection, all areas of Ion became accessible. Timeout errors on Tin were caused by a separate, unrelated incident due to an unexpected load increase that temporarily overwhelmed the Tin server, causing it to restart and logout user sessions.</description>
@@ -77,9 +77,9 @@ Starting at 11pm on October 17, Ion started responding with 500 Internal Server 
     
       <item>
         <title>[Resolved] Director Files Not Loading</title>
-        <link>https://status.tjhsst.edu/issues/2022-08-24-director-files/</link>
+        <link>https://cstate.tjhsst.edu/issues/2022-08-24-director-files/</link>
         <pubDate>Wed, 24 Aug 2022 18:20:00 -0400</pubDate>
-        <guid>https://status.tjhsst.edu/issues/2022-08-24-director-files/</guid>
+        <guid>https://cstate.tjhsst.edu/issues/2022-08-24-director-files/</guid>
         <category>2022-08-29T15:35:51-04:00</category>
         <description>Users are reporting that the file explorer is not loading insude the Director online editor. We currently believe that we have resolved the issue, which was linked to heavy load on Director&amp;rsquo;s appservers. We have adjusted some backend parameters to make Director more performant under heavy usage.</description>
         <content type="html">&lt;p&gt;Users are reporting that the file explorer is not loading insude the Director online editor. We currently believe that we have resolved the issue, which was linked to heavy load on Director&amp;rsquo;s appservers. We have adjusted some backend parameters to make Director more performant under heavy usage.&lt;/p&gt;
@@ -88,9 +88,9 @@ Starting at 11pm on October 17, Ion started responding with 500 Internal Server 
     
       <item>
         <title>[Resolved] Web Services Down</title>
-        <link>https://status.tjhsst.edu/issues/2022-05-22-systems-down/</link>
+        <link>https://cstate.tjhsst.edu/issues/2022-05-22-systems-down/</link>
         <pubDate>Sun, 22 May 2022 05:32:40 -0400</pubDate>
-        <guid>https://status.tjhsst.edu/issues/2022-05-22-systems-down/</guid>
+        <guid>https://cstate.tjhsst.edu/issues/2022-05-22-systems-down/</guid>
         <category>2022-05-27T21:54:00-04:00</category>
         <description>Several of our web services unexpectedly went down in the morning of May 22, 2022. After several days of investigation, we have restored the services to full operation.
 We are not entirely sure what triggered the shutdown, but we do know that a crucial server managed by the TJHSST Tech Team crashed at some point between Friday 5/20 and Sunday 5/22, causing problems with our DNS servers (whose internal name resolution depended on said server).</description>
@@ -101,9 +101,9 @@ We are not entirely sure what triggered the shutdown, but we do know that a cruc
     
       <item>
         <title>[Resolved] Status Page Switch</title>
-        <link>https://status.tjhsst.edu/issues/2022-04-21-status-page-switch/</link>
+        <link>https://cstate.tjhsst.edu/issues/2022-04-21-status-page-switch/</link>
         <pubDate>Thu, 21 Apr 2022 12:40:00 -0400</pubDate>
-        <guid>https://status.tjhsst.edu/issues/2022-04-21-status-page-switch/</guid>
+        <guid>https://cstate.tjhsst.edu/issues/2022-04-21-status-page-switch/</guid>
         <category>2022-04-21T14:15:00-04:00</category>
         <description>We&amp;rsquo;ve updated our status page to cState!</description>
         <content type="html">&lt;p&gt;We&amp;rsquo;ve updated our status page to &lt;a href=&#34;https://github.com/cstate/cstate&#34;&gt;cState&lt;/a&gt;!&lt;/p&gt;
@@ -112,9 +112,9 @@ We are not entirely sure what triggered the shutdown, but we do know that a cruc
     
       <item>
         <title>[Resolved] Cluster Maintenance</title>
-        <link>https://status.tjhsst.edu/issues/2022-04-21-cluster-maintenance/</link>
+        <link>https://cstate.tjhsst.edu/issues/2022-04-21-cluster-maintenance/</link>
         <pubDate>Wed, 06 Apr 2022 14:25:00 -0400</pubDate>
-        <guid>https://status.tjhsst.edu/issues/2022-04-21-cluster-maintenance/</guid>
+        <guid>https://cstate.tjhsst.edu/issues/2022-04-21-cluster-maintenance/</guid>
         <category>2022-04-10 14:25:00 -0400</category>
         <description>Some nodes of the Borg cluster are currently inactive. Sysadmins are working on restoring the cluster to full operation.</description>
         <content type="html">&lt;p&gt;Some nodes of the Borg cluster are currently inactive. Sysadmins are working on restoring the cluster to full operation.&lt;/p&gt;
@@ -123,9 +123,9 @@ We are not entirely sure what triggered the shutdown, but we do know that a cruc
     
       <item>
         <title>[Resolved] JupyterHub Down</title>
-        <link>https://status.tjhsst.edu/issues/2022-01-07-jupyterhub-down/</link>
+        <link>https://cstate.tjhsst.edu/issues/2022-01-07-jupyterhub-down/</link>
         <pubDate>Fri, 07 Jan 2022 12:00:00 +0000</pubDate>
-        <guid>https://status.tjhsst.edu/issues/2022-01-07-jupyterhub-down/</guid>
+        <guid>https://cstate.tjhsst.edu/issues/2022-01-07-jupyterhub-down/</guid>
         <category>2022-01-10 12:00:00</category>
         <description>JupyterHub is currently unable to spawn instances on any of the CSL&amp;rsquo;s computing clusters. We are investigating the issue and hope to bring JupyterHub back online soon.</description>
         <content type="html">&lt;p&gt;JupyterHub is currently unable to spawn instances on any of the CSL&amp;rsquo;s computing clusters. We are investigating the issue and hope to bring JupyterHub back online soon.&lt;/p&gt;
@@ -134,9 +134,9 @@ We are not entirely sure what triggered the shutdown, but we do know that a cruc
     
       <item>
         <title>[Resolved] DNS Changes</title>
-        <link>https://status.tjhsst.edu/issues/2021-12-21-dns-changes/</link>
+        <link>https://cstate.tjhsst.edu/issues/2021-12-21-dns-changes/</link>
         <pubDate>Tue, 21 Dec 2021 16:00:00 +0000</pubDate>
-        <guid>https://status.tjhsst.edu/issues/2021-12-21-dns-changes/</guid>
+        <guid>https://cstate.tjhsst.edu/issues/2021-12-21-dns-changes/</guid>
         <category>2021-12-21 18:00:00</category>
         <description>We are currently deploying significant changes to our DNS configuration. Users of CSL services may experience issues with networking.</description>
         <content type="html">&lt;p&gt;We are currently deploying significant changes to our DNS configuration. Users of CSL services may experience issues with networking.&lt;/p&gt;

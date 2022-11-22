@@ -1,7 +1,7 @@
 {
   "is": "system",
   "title": "Borg Cluster",
-  "permalink": "https://status.tjhsst.edu/affected/borg-cluster/",
+  "permalink": "https://cstate.tjhsst.edu/affected/borg-cluster/",
   "status": "ok", 
   "pages": [
       {
@@ -9,7 +9,7 @@
         "title": "Cluster Maintenance",
         "createdAt": "2022-04-06 14:25:00 -0400 -0400",
         "lastMod": "2022-10-19 13:23:46 -0400 -0400",
-        "permalink": "https://status.tjhsst.edu/issues/2022-04-21-cluster-maintenance/",
+        "permalink": "https://cstate.tjhsst.edu/issues/2022-04-21-cluster-maintenance/",
         "severity": "notice",
         "resolved": true,
         "informational": false,

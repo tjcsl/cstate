@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <link rel="alternate" type="text/html" href="https://status.tjhsst.edu"/>
+    <link rel="alternate" type="text/html" href="https://cstate.tjhsst.edu"/>
     <title>Webmail on tjCSL Status</title>
-    <link>https://status.tjhsst.edu/affected/webmail/</link>
+    <link>https://cstate.tjhsst.edu/affected/webmail/</link>
     <description>Incident history</description>
     <generator>github.com/cstate</generator>
     <language>en</language>
@@ -13,14 +13,14 @@
     
     
     
-      <atom:link href="https://status.tjhsst.edu/affected/webmail/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://cstate.tjhsst.edu/affected/webmail/index.xml" rel="self" type="application/rss+xml" />
     
     
       <item>
         <title>[Resolved] Web Services Down</title>
-        <link>https://status.tjhsst.edu/issues/2022-05-22-systems-down/</link>
+        <link>https://cstate.tjhsst.edu/issues/2022-05-22-systems-down/</link>
         <pubDate>Sun, 22 May 2022 05:32:40 -0400</pubDate>
-        <guid>https://status.tjhsst.edu/issues/2022-05-22-systems-down/</guid>
+        <guid>https://cstate.tjhsst.edu/issues/2022-05-22-systems-down/</guid>
         <category>2022-05-27T21:54:00-04:00</category>
         <description>Several of our web services unexpectedly went down in the morning of May 22, 2022. After several days of investigation, we have restored the services to full operation.
 We are not entirely sure what triggered the shutdown, but we do know that a crucial server managed by the TJHSST Tech Team crashed at some point between Friday 5/20 and Sunday 5/22, causing problems with our DNS servers (whose internal name resolution depended on said server).</description>

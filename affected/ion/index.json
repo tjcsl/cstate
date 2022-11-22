@@ -1,7 +1,7 @@
 {
   "is": "system",
   "title": "Ion",
-  "permalink": "https://status.tjhsst.edu/affected/ion/",
+  "permalink": "https://cstate.tjhsst.edu/affected/ion/",
   "status": "ok", 
   "pages": [
       {
@@ -9,7 +9,7 @@
         "title": "Ion and Tin Experiencing Minor Issues",
         "createdAt": "2022-10-18 19:52:46 -0400 -0400",
         "lastMod": "2022-10-20 21:23:17 -0400 -0400",
-        "permalink": "https://status.tjhsst.edu/issues/2022-10-18-ion-tin-minor-problems/",
+        "permalink": "https://cstate.tjhsst.edu/issues/2022-10-18-ion-tin-minor-problems/",
         "severity": "notice",
         "resolved": true,
         "informational": false,
@@ -23,7 +23,7 @@
         "title": "Web Services Down",
         "createdAt": "2022-05-22 05:32:40 -0400 -0400",
         "lastMod": "2022-05-28 15:52:36 -0400 -0400",
-        "permalink": "https://status.tjhsst.edu/issues/2022-05-22-systems-down/",
+        "permalink": "https://cstate.tjhsst.edu/issues/2022-05-22-systems-down/",
         "severity": "down",
         "resolved": true,
         "informational": false,

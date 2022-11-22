@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <link rel="alternate" type="text/html" href="https://status.tjhsst.edu"/>
+    <link rel="alternate" type="text/html" href="https://cstate.tjhsst.edu"/>
     <title>Director on tjCSL Status</title>
-    <link>https://status.tjhsst.edu/affected/director/</link>
+    <link>https://cstate.tjhsst.edu/affected/director/</link>
     <description>Incident history</description>
     <generator>github.com/cstate</generator>
     <language>en</language>
@@ -13,14 +13,14 @@
     
     
     
-      <atom:link href="https://status.tjhsst.edu/affected/director/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://cstate.tjhsst.edu/affected/director/index.xml" rel="self" type="application/rss+xml" />
     
     
       <item>
         <title>[Resolved] Director Web Management Interface Down</title>
-        <link>https://status.tjhsst.edu/issues/2022-11-15-director-interface/</link>
+        <link>https://cstate.tjhsst.edu/issues/2022-11-15-director-interface/</link>
         <pubDate>Tue, 15 Nov 2022 12:00:00 -0500</pubDate>
-        <guid>https://status.tjhsst.edu/issues/2022-11-15-director-interface/</guid>
+        <guid>https://cstate.tjhsst.edu/issues/2022-11-15-director-interface/</guid>
         <category>2022-11-15T17:00:00-05:00</category>
         <description>Resolved - November 15, 5PM: The issue has been resolved.
 Director is now fully functional after a restart of the backend service. We apologize for the inconvenience this may have caused.
@@ -40,9 +40,9 @@ Investigating - November 15, 12PM: We are investigating an issue causing the Dir
     
       <item>
         <title>[Resolved] Director Files Not Loading</title>
-        <link>https://status.tjhsst.edu/issues/2022-08-24-director-files/</link>
+        <link>https://cstate.tjhsst.edu/issues/2022-08-24-director-files/</link>
         <pubDate>Wed, 24 Aug 2022 18:20:00 -0400</pubDate>
-        <guid>https://status.tjhsst.edu/issues/2022-08-24-director-files/</guid>
+        <guid>https://cstate.tjhsst.edu/issues/2022-08-24-director-files/</guid>
         <category>2022-08-29T15:35:51-04:00</category>
         <description>Users are reporting that the file explorer is not loading insude the Director online editor. We currently believe that we have resolved the issue, which was linked to heavy load on Director&amp;rsquo;s appservers. We have adjusted some backend parameters to make Director more performant under heavy usage.</description>
         <content type="html">&lt;p&gt;Users are reporting that the file explorer is not loading insude the Director online editor. We currently believe that we have resolved the issue, which was linked to heavy load on Director&amp;rsquo;s appservers. We have adjusted some backend parameters to make Director more performant under heavy usage.&lt;/p&gt;
@@ -51,9 +51,9 @@ Investigating - November 15, 12PM: We are investigating an issue causing the Dir
     
       <item>
         <title>[Resolved] Web Services Down</title>
-        <link>https://status.tjhsst.edu/issues/2022-05-22-systems-down/</link>
+        <link>https://cstate.tjhsst.edu/issues/2022-05-22-systems-down/</link>
         <pubDate>Sun, 22 May 2022 05:32:40 -0400</pubDate>
-        <guid>https://status.tjhsst.edu/issues/2022-05-22-systems-down/</guid>
+        <guid>https://cstate.tjhsst.edu/issues/2022-05-22-systems-down/</guid>
         <category>2022-05-27T21:54:00-04:00</category>
         <description>Several of our web services unexpectedly went down in the morning of May 22, 2022. After several days of investigation, we have restored the services to full operation.
 We are not entirely sure what triggered the shutdown, but we do know that a crucial server managed by the TJHSST Tech Team crashed at some point between Friday 5/20 and Sunday 5/22, causing problems with our DNS servers (whose internal name resolution depended on said server).</description>
