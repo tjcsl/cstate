@@ -280,9 +280,16 @@
       }
   ],
   
+  "tabs": [
+      {
+        "name": "New CSL Status Page", 
+        "link": "<no value>"
+      }
+    
+  ],
   
   "buildDate": "2022-11-22",
-  "buildTime": "19:08",
+  "buildTime": "19:26",
   "buildTimezone": "UTC",
   "colorBrand": "#0048ab",
   "colorOk": "#37b371",
