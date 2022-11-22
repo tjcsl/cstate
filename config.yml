@@ -97,7 +97,7 @@ defaultContentLanguage: en
 #
 # Broken example:
 # baseUrl: /
-baseURL: https://status.tjhsst.edu
+baseURL: https://cstate.tjhsst.edu
 
 # For features like Last modified, you
 # need to use a Git repository. If you
@@ -361,10 +361,9 @@ params:
   # Uncomment to enable.
   #
   # Format:
-  # customTabs:
-  #  -
-  #    name: Name
-  #    link: https://example.com
+  customTabs:
+    - name: New CSL Status Page
+      link: https://status.tjhsst.edu
 
   # Disable complex server-side
   # calculations that may impact
